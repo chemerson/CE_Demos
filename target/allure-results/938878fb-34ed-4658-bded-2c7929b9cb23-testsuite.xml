@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1543081957534" stop="1543081961472" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>DemoTestSuite : Win 10 Chrome 70 1280[persona=, platformVersion=10, browserVersion=70, browserName=Chrome, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</name>
+    <title>DemoTestSuite : Win 10 Chrome 70 1280[persona=, platformVersion=10, browserVersion=70, browserName=Chrome, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</title>
+    <test-cases>
+        <test-case start="1543081957550" stop="1543081957552" status="pending">
+            <name>SinglePageDemo</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="38902@Christophers-Applitools-MacBook-Pro.local.TestNG(12)"/>
+            </labels>
+        </test-case>
+        <test-case start="1543081957552" stop="1543081957552" status="pending">
+            <name>WikipediaDemo</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="38902@Christophers-Applitools-MacBook-Pro.local.TestNG(12)"/>
+            </labels>
+        </test-case>
+        <test-case start="1543081959343" stop="1543081961194" status="passed">
+            <name>LocalWebDemo[Windows,10,Chrome,70,1280x1024,US East,,]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="38902@Christophers-Applitools-MacBook-Pro.local.TestNG(12)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="100" name="DemoTestSuite" parallel="tests" verbose="1">
+
+    <test name="iPhone 6S" enabled="true" thread-count="10">
+        <parameter name="platformName" value="iOS" />
+        <parameter name="platformVersion" value="10.0.2" />
+        <parameter name="browserName" value="" />
+        <parameter name="browserVersion" value="" />
+        <parameter name="screenResolution" value="" />
+        <parameter name="location" value="" />
+        <parameter name="deviceName" value="BF4CBA87A378ABA0D16607D0E203468FB4CA7725" />
+        <parameter name="persona" value="Georgia" />
+
+        <classes>
+            <class name="com.testing.NativeiOS" />
+        </classes>
+    </test>
+
+    <test name="iPhone 6 iOS 10.3.2">
+        <parameter name="platformName" value="iOS" />
+        <parameter name="platformVersion" value="10.3.2" />
+        <parameter name="browserName" value="" />
+        <parameter name="browserVersion" value="1" />
+        <parameter name="screenResolution" value="" />
+        <parameter name="location" value="" />
+        <parameter name="deviceName" value="2A56E99775698D2F1BABD7C1F9D57CA06AF0C7F6" />
+        <parameter name="persona" value="RealUserPersona" />
+
+        <classes>
+            <class name="com.testing.NativeiOS" />
+        </classes>
+    </test>
+    <!--
+    <test name="Galaxy S6" enabled="true" thread-count="10">
+        <parameter name="platformName" value="Android" />
+        <parameter name="platformVersion" value="5.1.1" />
+        <parameter name="browserName" value="" />
+        <parameter name="browserVersion" value="" />
+        <parameter name="screenResolution" value="" />
+        <parameter name="location" value="" />
+        <parameter name="deviceName" value="0915F9818BD80603" />
+        <parameter name="persona" value="Georgia" />
+
+        <classes>
+            <class name="NativeAndroid" />
+        </classes>
+    </test>
+
+
+    <test name="Galaxy S5">
+        <parameter name="platformName" value="Android" />
+        <parameter name="platformVersion" value="5.1.1" />
+        <parameter name="browserName" value="" />
+        <parameter name="browserVersion" value="" />
+        <parameter name="screenResolution" value="" />
+        <parameter name="location" value="" />
+        <parameter name="deviceName" value="5CDDB2F1" />
+        <parameter name="persona" value="RealUserPersona" />
+
+        <classes>
+            <class name="NativeAndroid" />
+        </classes>
+    </test>
+-->
+</suite>
+
+
+
+
+

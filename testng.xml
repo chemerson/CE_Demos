@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" name="DemoTestSuite" parallel="tests" verbose="1">
+
+    <test name="Win 8.1 Internet Explorer 11">
+        <parameter name="platformName" value="Windows" />
+        <parameter name="platformVersion" value="8.1" />
+        <parameter name="browserName" value="Internet Explorer" />
+        <parameter name="browserVersion" value="11" />
+        <parameter name="screenResolution" value="1024x768" />
+        <parameter name="location" value="US East" />
+        <parameter name="deviceName" value="" />
+        <parameter name="persona" value="" />
+
+        <classes>
+            <class name="com.testing.Web" />
+        </classes>
+    </test>
+
+    <test name="Win 8.1 Firefox 47">
+        <parameter name="platformName" value="Windows" />
+        <parameter name="platformVersion" value="8.1" />
+        <parameter name="browserName" value="Firefox" />
+        <parameter name="browserVersion" value="47" />
+        <parameter name="screenResolution" value="1280x1024" />
+        <parameter name="location" value="US East" />
+        <parameter name="deviceName" value="" />
+        <parameter name="persona" value="" />
+
+        <classes>
+            <class name="com.testing.Web" />
+        </classes>
+    </test>
+
+    <test name="Win 8.1 Firefox 46">
+        <parameter name="platformName" value="Windows" />
+        <parameter name="platformVersion" value="8.1" />
+        <parameter name="browserName" value="Firefox" />
+        <parameter name="browserVersion" value="46" />
+        <parameter name="screenResolution" value="1024x768" />
+        <parameter name="location" value="US East" />
+        <parameter name="deviceName" value="" />
+        <parameter name="persona" value="" />
+
+        <classes>
+            <class name="com.testing.Web" />
+        </classes>
+    </test>
+
+    <test name="Win 8.1 Chrome 53">
+        <parameter name="platformName" value="Windows" />
+        <parameter name="platformVersion" value="8.1" />
+        <parameter name="browserName" value="Chrome" />
+        <parameter name="browserVersion" value="53" />
+        <parameter name="screenResolution" value="1024x768" />
+        <parameter name="location" value="US East" />
+        <parameter name="deviceName" value="" />
+        <parameter name="persona" value="" />
+
+        <classes>
+            <class name="com.testing.Web" />
+        </classes>
+    </test>
+
+    <test name="Win 8.1 Chrome 52">
+        <parameter name="platformName" value="Windows" />
+        <parameter name="platformVersion" value="8.1" />
+        <parameter name="browserName" value="Chrome" />
+        <parameter name="browserVersion" value="52" />
+        <parameter name="screenResolution" value="1024x768" />
+        <parameter name="location" value="US East" />
+        <parameter name="deviceName" value="" />
+        <parameter name="persona" value="" />
+
+        <classes>
+            <class name="com.testing.Web" />
+        </classes>
+    </test>
+
+    <test name="iPhone 6S">
+        <parameter name="platformName" value="iOS" />
+        <parameter name="platformVersion" value="1233" />
+        <parameter name="browserName" value="" />
+        <parameter name="browserVersion" value="1" />
+        <parameter name="screenResolution" value="" />
+        <parameter name="location" value="" />
+        <parameter name="deviceName" value="BF4CBA87A378ABA0D16607D0E203468FB4CA7725" />
+        <parameter name="persona" value="RealUserPersona" />
+
+        <classes>
+            <class name="com.testing.Web" />
+        </classes>
+    </test>
+
+
+    <test name="iPad Air 2">
+        <parameter name="platformName" value="iOS" />
+        <parameter name="platformVersion" value="9.2.1" />
+        <parameter name="browserName" value="" />
+        <parameter name="browserVersion" value="1" />
+        <parameter name="screenResolution" value="" />
+        <parameter name="location" value="" />
+        <parameter name="deviceName" value="BA77631CDD65B0124F241488209BB741F30AA98A" />
+        <parameter name="persona" value="RealUserPersona" />
+
+        <classes>
+            <class name="com.testing.Web" />
+        </classes>
+    </test>
+
+    <test name="Galaxy S6">
+        <parameter name="platformName" value="Android" />
+        <parameter name="platformVersion" value="5.1.1" />
+        <parameter name="browserName" value="" />
+        <parameter name="browserVersion" value="" />
+        <parameter name="screenResolution" value="" />
+        <parameter name="location" value="" />
+        <parameter name="deviceName" value="0915F9818BD80603" />
+        <parameter name="persona" value="RealUserPersona" />
+
+        <classes>
+            <class name="com.testing.Web" />
+        </classes>
+    </test>
+
+    <test name="iPhone 7">
+        <parameter name="platformName" value="iOS" />
+        <parameter name="platformVersion" value="1233" />
+        <parameter name="browserName" value="" />
+        <parameter name="browserVersion" value="1" />
+        <parameter name="screenResolution" value="" />
+        <parameter name="location" value="" />
+        <parameter name="deviceName" value="0301890A12076D4A6E431D743ECBE3A9E72EA79E" />
+        <parameter name="persona" value="RealUserPersona" />
+
+        <classes>
+            <class name="com.testing.Web" />
+        </classes>
+    </test>
+
+</suite>

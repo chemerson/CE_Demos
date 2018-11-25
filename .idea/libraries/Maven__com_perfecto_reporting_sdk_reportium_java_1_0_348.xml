@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.perfecto.reporting-sdk:reportium-java:1.0.348">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/perfecto/reporting-sdk/reportium-java/1.0.348/reportium-java-1.0.348.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/perfecto/reporting-sdk/reportium-java/1.0.348/reportium-java-1.0.348-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/perfecto/reporting-sdk/reportium-java/1.0.348/reportium-java-1.0.348-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

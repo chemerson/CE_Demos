@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="10" name="DemoTestSuite" verbose="1" parallel="tests">
+
+    <test name="Chrome 70 1280">
+        <parameter name="platformName" value="Windows" />
+        <parameter name="platformVersion" value="10" />
+        <parameter name="browserName" value="chrome" />
+        <parameter name="browserVersion" value="70.0.3538.110" />
+        <parameter name="screenResolution" value="1280x1024" />
+        <parameter name="location" value="US East" />
+        <parameter name="deviceName" value="" />
+        <parameter name="persona" value="" />
+
+        <classes>
+            <class name="com.testing.Web" />
+        </classes>
+    </test>
+
+    <test name="Firefox 63 1280">
+        <parameter name="platformName" value="Windows" />
+        <parameter name="platformVersion" value="10" />
+        <parameter name="browserName" value="firefox" />
+        <parameter name="browserVersion" value="63.0.3" />
+        <parameter name="screenResolution" value="1280x1024" />
+        <parameter name="location" value="US East" />
+        <parameter name="deviceName" value="" />
+        <parameter name="persona" value="" />
+
+        <classes>
+            <class name="com.testing.Web" />
+        </classes>
+    </test>
+
+    <!--
+
+These are all setup to use Perfecto, the Utils class handles putting the right names in the right place
+
+        <test name="Win 10 Chrome 69 1280">
+            <parameter name="platformName" value="Windows" />
+            <parameter name="platformVersion" value="10" />
+            <parameter name="browserName" value="Chrome" />
+            <parameter name="browserVersion" value="69" />
+            <parameter name="screenResolution" value="1280x1024" />
+            <parameter name="location" value="US East" />
+            <parameter name="deviceName" value="" />
+            <parameter name="persona" value="" />
+
+            <classes>
+                <class name="com.testing.Web" />
+            </classes>
+        </test>
+
+        <test name="Win 10 Edge 16">
+            <parameter name="platformName" value="Windows" />
+            <parameter name="platformVersion" value="10" />
+            <parameter name="browserName" value="Edge" />
+            <parameter name="browserVersion" value="16" />
+            <parameter name="screenResolution" value="1024x768" />
+            <parameter name="location" value="US East" />
+            <parameter name="deviceName" value="" />
+            <parameter name="persona" value="" />
+
+            <classes>
+                <class name="com.testing.Web" />
+            </classes>
+        </test>
+        <test name="Win 10 Chrome 62 1280">
+            <parameter name="platformName" value="Windows" />
+            <parameter name="platformVersion" value="10" />
+            <parameter name="browserName" value="Chrome" />
+            <parameter name="browserVersion" value="62" />
+            <parameter name="screenResolution" value="1280x1024" />
+            <parameter name="location" value="US East" />
+            <parameter name="deviceName" value="" />
+            <parameter name="persona" value="" />
+
+            <classes>
+                <class name="com.testing.Web"/>
+            </classes>
+
+        </test>
+        <test name="Win 10 Chrome 61 1280">
+               <parameter name="platformName" value="Windows" />
+               <parameter name="platformVersion" value="10" />
+               <parameter name="browserName" value="Chrome" />
+               <parameter name="browserVersion" value="61" />
+               <parameter name="screenResolution" value="1280x1024" />
+               <parameter name="location" value="US East" />
+               <parameter name="deviceName" value="" />
+               <parameter name="persona" value="" />
+
+               <classes>
+                   <class name="com.testing.Web" />
+               </classes>
+           </test>
+        <test name="Win 10 Chrome 60 1024">
+               <parameter name="platformName" value="Windows" />
+               <parameter name="platformVersion" value="10" />
+               <parameter name="browserName" value="Chrome" />
+               <parameter name="browserVersion" value="60" />
+               <parameter name="screenResolution" value="1024x768" />
+               <parameter name="location" value="US East" />
+               <parameter name="deviceName" value="" />
+               <parameter name="persona" value="" />
+
+               <classes>
+                   <class name="com.testing.Web" />
+               </classes>
+           </test>
+    -->
+
+</suite>

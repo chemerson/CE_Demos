@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="914b7f99-004a-42bb-88ff-1885db3cde1b" name="Default" comment="TEST">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_applitools_eyes_common_java3_3_141_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_applitools_eyes_connectivity_java3_jersey2x_3_141_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_applitools_eyes_sdk_core_java3_3_141_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_applitools_eyes_selenium_java3_3_141_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_helger_ph_commons_9_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_helger_ph_css_6_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_1_m05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_5_0_b36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_5_0_b36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_5_0_b36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_5_0_b36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_5_0_b36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_26_b03.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_connectors_jersey_apache_connector_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_26_b03.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_26_b03.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_imgscalr_imgscalr_lib_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openpnp_opencv_3_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_17_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_perfecto_reporting_sdk_reportium_java_1_0_293.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_perfecto_reporting_sdk_reportium_java_1_0_348.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_perfecto_reporting_sdk_reportium_java_1_1_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_appium_java_client_3_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_appium_java_client_5_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_appium_java_client_3_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_11_v20150529.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_11_v20150529.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_11_v20150529.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_11_v20150529.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_11_v20150529.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_48_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_46_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_46_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_46_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_46_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_46_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_53_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_46_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_53_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_46_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_46_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_46_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_6_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/src/test/java/com/perfecto/testing/WebScenarioParallel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/src/test/java/com/perfecto/testing/WebScenarioParallel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/src/test/java/com/perfecto/testing/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/src/test/java/com/perfecto/testing/utils/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test Galaxy S6.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test Galaxy S6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test Galaxy S6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test Galaxy S6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test WebMachine.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test WebMachine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test WebMachine.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test WebMachine.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test iPhone6 Plus.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test iPhone6 Plus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test iPhone6 Plus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test iPhone6 Plus.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/bullet_point.png" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/bullet_point.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/collapseall.gif" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/collapseall.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/failed.png" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/failed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/jquery-1.7.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/junitreports/TEST-com.perfecto.testing.WebScenarioParallel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/junitreports/TEST-com.perfecto.testing.WebScenarioParallel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/navigator-bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/navigator-bullet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/Test Galaxy S6.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/Test Galaxy S6.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/Test WebMachine.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/Test WebMachine.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/Test iPhone6 Plus.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/Test iPhone6 Plus.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/reporter-output.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/passed.png" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/passed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/skipped.png" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/skipped.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-reports.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-reports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng.css" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/com/perfecto/testing/WebScenarioParallel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/test/java/com/perfecto/testing/WebScenarioParallel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/com/perfecto/testing/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/test/java/com/perfecto/testing/utils/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/DemoPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/DemoPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/NativeAndroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/NativeAndroid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/NativeiOS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/NativeiOS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/Web.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/Web.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/WebMobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/WebMobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/pages/home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/pages/home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/utils/PerfectoLabUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/utils/PerfectoLabUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/utils/TestConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/utils/TestConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/utils/VcsUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/utils/VcsUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/utils/WebLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/utils/WebLocators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/DemoPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/NativeAndroid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/NativeiOS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/Web.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/WebMobile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/pages/home.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/PerfectoLabUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/TestConstants$TestData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/TestConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/Utils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/WebLocators$About.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/WebLocators$Home.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/WebLocators$PublicationsandForms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/WebLocators$SignUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/WebLocators$SignUpForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/WebLocators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test Galaxy S6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test Galaxy S6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test WebMachine.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test WebMachine.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test iPhone6 Plus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test iPhone6 Plus.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.perfecto.testing.WebScenarioParallel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_Native.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_Native.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_NativeiOS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_NativeiOS.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_Web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_Web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_WebMobile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_WebMobile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_demoplugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_demoplugin.xml" afterDir="false" />
+    </list>
+    <ignored path="Perfecto.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="571033339">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="6" />
+          <entry key="java" value="10" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="6" />
+          <entry key="JAVA" value="10" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2290" />
+          <entry key="xml" value="139" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2290" />
+          <entry key="XML" value="139" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="305686415">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1465" />
+          <entry key="xml" value="176" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1465" />
+          <entry key="XML" value="176" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="5" />
+          <entry key="java" value="1" />
+          <entry key="log" value="4" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Perfecto" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/testing/Web.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1642">
+              <caret line="282" selection-start-line="282" selection-end-line="282" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#LocalWebDemo_1#0;class#Web#0" />
+                <element signature="method#LocalWebDemo_2#0;class#Web#0" />
+                <element signature="method#LocalWebDemo_3#0;class#Web#0" />
+                <element signature="method#WikipediaDemo#0;class#Web#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/testing/utils/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="181" column="49" lean-forward="true" selection-start-line="181" selection-start-column="49" selection-end-line="181" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2294#3065#0" />
+                <element signature="e#3255#3436#0" />
+                <element signature="e#3439#4123#0" />
+                <element signature="e#4960#4991#0" />
+                <element signature="e#11446#11447#0" expanded="true" />
+                <element signature="e#11477#11478#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng_Web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gson</find>
+      <find>google</find>
+      <find>appium</find>
+      <find>swipe</find>
+      <find>error</find>
+      <find>guava</find>
+      <find>driver.findElementByXPath(</find>
+      <find>automationname</find>
+      <find>mobilesafar</find>
+      <find>safari</find>
+      <find>logs</find>
+      <find>reportium</find>
+      <find>vcs_url_key</find>
+      <find>SCRIPT_NAME</find>
+      <find>demoscript</find>
+      <find>DemoCME_3</find>
+      <find>DemoTag</find>
+      <find>fluentwait</find>
+      <find>selenium</find>
+      <find>fluent</find>
+      <find>timeout</find>
+      <find>home</find>
+      <find>threshol</find>
+      <find>console</find>
+      <find>glassfish</find>
+      <find>find</find>
+      <find>eyes.</find>
+      <find>//eyes</find>
+      <find>PERFECTO_HOST</find>
+      <find>USE_PERFECTO</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>driver</replace>
+      <replace>Utils.clickElement(driver,</replace>
+      <replace>//eyes.</replace>
+      <replace>eyes</replace>
+      <replace>//eyes</replace>
+      <replace>eyes.</replace>
+      <replace>GRID_HOST</replace>
+      <replace>USE_GRID</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/perfecto/testing/utils/factory.java" />
+        <option value="$PROJECT_DIR$/src/com/perfecto/testing/pages/home.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/com/perfecto/testing/utilities/Utils.java" />
+        <option value="$PROJECT_DIR$/src/com/perfecto/testing/utils/PerfectoLabUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/perfecto/testing/utils/WebLocators.java" />
+        <option value="$PROJECT_DIR$/testng_WebMobile.xml" />
+        <option value="$PROJECT_DIR$/testng_Native.xml" />
+        <option value="$PROJECT_DIR$/testng_NativeiOS.xml" />
+        <option value="$PROJECT_DIR$/src/com/perfecto/testing/NativeAndroid.java" />
+        <option value="$PROJECT_DIR$/src/com/perfecto/testing/Web.java" />
+        <option value="$PROJECT_DIR$/src/com/perfecto/testing/NativeiOS.java" />
+        <option value="$PROJECT_DIR$/src/com/perfecto/testing/WebMobile.java" />
+        <option value="$PROJECT_DIR$/src/com/perfecto/testing/utils/VcsUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/perfecto/testing/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/com/perfecto/testing/utils/TestConstants.java" />
+        <option value="$PROJECT_DIR$/src/com/perfecto/testing/DemoPlugin.java" />
+        <option value="$PROJECT_DIR$/testng_demoplugin.xml" />
+        <option value="$PROJECT_DIR$/src/com/testing/utils/MyEyes.java" />
+        <option value="$PROJECT_DIR$/src/com/testing/pages/home.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/com/testing/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/testng_Web.xml" />
+        <option value="$PROJECT_DIR$/src/com/testing/Web.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Perfecto" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="976" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CE_Demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CE_Demos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CE_Demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CE_Demos" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CE_Demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CE_Demos" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543186595617" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3402299" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.perfecto.testing" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Web">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Perfecto" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoPlugin" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_demoplugin.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -DtestHost=demo.perfectomobile.com -DtestUsername=chrise@perfectomobile.com -DtestPassword=zaq1@WSX" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Native" type="TestNG" factoryName="TestNG" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_Native.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -DtestHost=demo.perfectomobile.com -DtestUsername=chrise@perfectomobile.com -DtestPassword=zaq1@WSX" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NativeiOS" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_NativeiOS.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -DtestHost=demo.perfectomobile.com -Dfastweb=false -DtestUsername=chrise@perfectomobile.com -DtestPassword=zaq1@WSX" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Web" type="TestNG" factoryName="TestNG">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_Web.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -DuseSeleniumGrid=1 -DtestEyes=1 -DeyesAPIKey=8pVdTA8n6joSM18VHrggfo9OHmhaFjepyAbkdrZ1NcU110 -DtestHost=localhost:4444 -DtestToken=eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJLc1BUWU1zZHBSZ21LXzk4OGZwaUx6cWsxdWpZMnduZG5SQU50ejgyVHBNIn0.eyJqdGkiOiJiNmZlM2JkMy03NmI3LTQwOTEtOWRhZi05NTFkMTNjOTQzNmMiLCJleHAiOjAsIm5iZiI6MCwiaWF0IjoxNTQyMTA3NjQzLCJpc3MiOiJodHRwczovL2F1dGgucGVyZmVjdG9tb2JpbGUuY29tL2F1dGgvcmVhbG1zL3BhcnRuZXJzLXBlcmZlY3RvbW9iaWxlLWNvbSIsImF1ZCI6Im9mZmxpbmUtdG9rZW4tZ2VuZXJhdG9yIiwic3ViIjoiNjczOTkwMzYtZjA3ZC00OTZhLWI3NmItZDg1ODBhY2YzMGY3IiwidHlwIjoiT2ZmbGluZSIsImF6cCI6Im9mZmxpbmUtdG9rZW4tZ2VuZXJhdG9yIiwiYXV0aF90aW1lIjowLCJzZXNzaW9uX3N0YXRlIjoiMGRmNDVkMDUtZTZmYi00ZjMyLWI0YjItM2YyNjA4ZWNhNGY4IiwicmVhbG1fYWNjZXNzIjp7InJvbGVzIjpbIm9mZmxpbmVfYWNjZXNzIl19LCJyZXNvdXJjZV9hY2Nlc3MiOnsiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwidmlldy1wcm9maWxlIl19fX0.D3jaWe5hdvPam55_1kGxnkfVxMGxkX9xOvQGVeBz__mQkjQYmWdgAtEOQZ0Vkuia_6BZr_n3R-Wb8CSefKRIIUIvbQ_3rhnA4YbiC1tjo6lXhEogg7Wuh_H2WCxsJUJMwOzqz6XB75FLVOwXry-TRCd2fMFFEfM1pm8imJcQ4MUPwlkJ6aZizwftmmfm4F2iWU0nCF3ynu7i7QaUE2mq0lZszPiLhlpT899MbHvst7q3hQbU2vI7GIzK_N4ThOt_qhMX0AsldhE6Bqt_uVUyfmeRogXTg7Tx4LfWHe05McAXkdmM7VsgzhlVUt5fJJZP1TMYAccS3ht_9GfgHDogRg" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebMobile" type="TestNG" factoryName="TestNG">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_WebMobile.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -DtestHost=demo.perfectomobile.com -DtestUsername=chrise@perfectomobile.com -DtestPassword=zaq1@WSX" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Web.WebDemo" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testing" />
+      <option name="MAIN_CLASS_NAME" value="com.testing.Web" />
+      <option name="METHOD_NAME" value="WebDemo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.WebMobile" />
+      <item itemvalue="TestNG.Web" />
+      <item itemvalue="TestNG.DemoPlugin" />
+      <item itemvalue="TestNG.NativeiOS" />
+      <item itemvalue="TestNG.Native" />
+      <item itemvalue="TestNG.Web.WebDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Web.WebDemo" />
+        <item itemvalue="TestNG.Native" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="914b7f99-004a-42bb-88ff-1885db3cde1b" name="Default" comment="" />
+      <created>1477856000214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477856000214</updated>
+      <workItem from="1525546838036" duration="218000" />
+      <workItem from="1525575487808" duration="132000" />
+      <workItem from="1525575644454" duration="319000" />
+      <workItem from="1525575989852" duration="45000" />
+      <workItem from="1525576362544" duration="149000" />
+      <workItem from="1525576671045" duration="375000" />
+      <workItem from="1525611975403" duration="215000" />
+      <workItem from="1525612871041" duration="190000" />
+      <workItem from="1525613177617" duration="70000" />
+      <workItem from="1525613366616" duration="1084000" />
+      <workItem from="1525614625760" duration="517000" />
+      <workItem from="1525615190323" duration="561000" />
+      <workItem from="1525619925733" duration="489000" />
+      <workItem from="1525697537919" duration="799000" />
+      <workItem from="1525908935939" duration="23000" />
+      <workItem from="1525909103862" duration="143000" />
+      <workItem from="1525909553884" duration="5732000" />
+      <workItem from="1525964612322" duration="332000" />
+      <workItem from="1525965934621" duration="1406000" />
+      <workItem from="1526318576926" duration="2729000" />
+      <workItem from="1526507168800" duration="28000" />
+      <workItem from="1526902448581" duration="820000" />
+      <workItem from="1527075169953" duration="1770000" />
+      <workItem from="1527198641986" duration="81000" />
+      <workItem from="1527694307719" duration="450000" />
+      <workItem from="1527712526143" duration="332000" />
+      <workItem from="1527802613606" duration="12000" />
+      <workItem from="1528209886565" duration="44000" />
+      <workItem from="1528209967508" duration="1350000" />
+      <workItem from="1528211792594" duration="1544000" />
+      <workItem from="1528213772608" duration="1456000" />
+      <workItem from="1528216678414" duration="613000" />
+      <workItem from="1528220092591" duration="177000" />
+      <workItem from="1528227600889" duration="225000" />
+      <workItem from="1528293304554" duration="1030000" />
+      <workItem from="1528333581559" duration="1683000" />
+      <workItem from="1528335770041" duration="1297000" />
+      <workItem from="1528337696244" duration="1375000" />
+      <workItem from="1528339526329" duration="1742000" />
+      <workItem from="1528341335468" duration="1317000" />
+      <workItem from="1528344025605" duration="1783000" />
+      <workItem from="1528345837227" duration="1599000" />
+      <workItem from="1528347867104" duration="1738000" />
+      <workItem from="1528349693083" duration="1334000" />
+      <workItem from="1528351509219" duration="1859000" />
+      <workItem from="1528395194245" duration="1457000" />
+      <workItem from="1528819363434" duration="71000" />
+      <workItem from="1528836186882" duration="22000" />
+      <workItem from="1529345909768" duration="652000" />
+      <workItem from="1529966699794" duration="890000" />
+      <workItem from="1529968742224" duration="1232000" />
+      <workItem from="1530029253535" duration="1462000" />
+      <workItem from="1530034917657" duration="226000" />
+      <workItem from="1530040768534" duration="670000" />
+      <workItem from="1530201408877" duration="291000" />
+      <workItem from="1530206455103" duration="544000" />
+      <workItem from="1530209064281" duration="609000" />
+      <workItem from="1530210304440" duration="266000" />
+      <workItem from="1530210626900" duration="1369000" />
+      <workItem from="1530213484915" duration="1554000" />
+      <workItem from="1530216625987" duration="67000" />
+      <workItem from="1530221727369" duration="486000" />
+      <workItem from="1531242906386" duration="1778000" />
+      <workItem from="1531246324277" duration="977000" />
+      <workItem from="1531312406282" duration="46000" />
+      <workItem from="1531435702799" duration="582000" />
+      <workItem from="1531438872473" duration="112000" />
+    </task>
+    <task id="LOCAL-00001" summary="Basic comment">
+      <created>1477857661107</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1477857661107</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Made RemoteWebdriver and Reportium Factories to support multiple threads safely - prevents inadvertent object sharing">
+      <created>1478026711547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1478026711547</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Made RemoteWebdriver and Reportium Factories to support multiple threads safely - prevents inadvertent object sharing">
+      <created>1478026732412</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1478026732412</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finished 2 point authentication test">
+      <created>1478365588783</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1478365588783</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated web mobile test">
+      <created>1478472591812</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1478472591812</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix POM">
+      <created>1478475365877</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1478475365877</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix POM">
+      <created>1478475505879</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1478475505879</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix POM">
+      <created>1478708240714</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1478708240714</updated>
+    </task>
+    <task id="LOCAL-00009" summary="dual auth only">
+      <created>1478708460417</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1478708460417</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Example push">
+      <created>1478875688944</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1478875688944</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Misc Updates">
+      <created>1480351763080</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1480351763080</updated>
+    </task>
+    <task id="LOCAL-00012" summary="TEST">
+      <created>1483379811898</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1483379811898</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Web - 2018.11.25 at 15h 36m 00s.xml">
+      <configuration name="Web" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Web - 2018.11.25 at 15h 53m 32s.xml">
+      <configuration name="Web" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Web - 2018.11.25 at 16h 05m 17s.xml">
+      <configuration name="Web" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Web - 2018.11.25 at 16h 09m 31s.xml">
+      <configuration name="Web" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Web - 2018.11.25 at 16h 12m 27s.xml">
+      <configuration name="Web" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Web - 2018.11.25 at 16h 22m 23s.xml">
+      <configuration name="Web" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Web - 2018.11.25 at 16h 44m 21s.xml">
+      <configuration name="Web" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Web - 2018.11.25 at 17h 12m 02s.xml">
+      <configuration name="Web" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Web - 2018.11.25 at 17h 18m 26s.xml">
+      <configuration name="Web" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Web - 2018.11.25 at 17h 56m 55s.xml">
+      <configuration name="Web" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56550000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="23" width="1680" height="976" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12698413" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.14295977" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Nl-Palette" order="6" />
+      <window_info id="Palette&#9;" order="7" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32752612" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8058608" visible="true" weight="0.3821138" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31707317" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32908458" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27714932" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.1941392" side_tool="true" weight="0.19205298" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49761337" weight="0.27642277" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.329849" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.7937428" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" x="1171" y="320" width="628" height="433" id="Perfecto Lab" order="1" weight="0.7680098" />
+      <window_info anchor="right" x="1540" y="216" width="909" height="772" id="Perfecto Dashboard" order="2" weight="0.50915754" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.249694" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Designer" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Properties" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Maven Projects" order="11" weight="0.32924336" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08154506" />
+      <window_info id="Structure" order="1" weight="0.14295977" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936507" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8058608" weight="0.19312169" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.2037037" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.1941392" side_tool="true" weight="0.19205298" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49761337" weight="0.17592593" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.27910054" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.24338624" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" x="1171" y="320" width="628" height="433" id="Perfecto Lab" order="1" visible="true" weight="0.29041487" />
+      <window_info anchor="right" x="1540" y="216" width="909" height="772" id="Perfecto Dashboard" order="2" weight="0.5629471" />
+      <window_info anchor="right" id="Ant Build" internal_type="SLIDING" order="3" type="SLIDING" weight="0.249694" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32986537" />
+      <window_info anchor="right" id="Designer" order="8" />
+      <window_info anchor="right" id="Properties" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic comment" />
+    <MESSAGE value="Made RemoteWebdriver and Reportium Factories to support multiple threads safely - prevents inadvertent object sharing" />
+    <MESSAGE value="Finished 2 point authentication test" />
+    <MESSAGE value="Updated web mobile test" />
+    <MESSAGE value="Fix POM" />
+    <MESSAGE value="dual auth only" />
+    <MESSAGE value="Example push" />
+    <MESSAGE value="Misc Updates" />
+    <MESSAGE value="TEST" />
+    <option name="LAST_COMMIT_MESSAGE" value="TEST" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>result = driver.executeScript(&quot;mobile:checkpoint:image&quot;, params)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElementByXPath(xpath).isSelected();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElementByXPath(xpath).isEnabled()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElementByXPath(xpath).isDisplayed();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/testing/utils/WebLocators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_WebMobile.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_Native.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_NativeiOS.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/ITestResult.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/perfecto/reporting-sdk/reportium-java/1.0.280/reportium-java-1.0.280.jar!/com/perfecto/reportium/test/TestContext.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/testing/utils/VcsUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="22" column="90" selection-start-line="22" selection-start-column="90" selection-end-line="22" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/NativeiOS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="104" column="59" lean-forward="true" selection-start-line="104" selection-start-column="12" selection-end-line="104" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/utils/TestConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/DemoPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_demoplugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/IdeaIC2018.2/temp-testng-customsuite.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/internal/ObjectFactoryImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/internal/ClassHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="249" selection-start-line="249" selection-end-line="249" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/internal/ClassImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2055">
+          <caret line="173" selection-start-line="173" selection-end-line="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/internal/TestNGClassFinder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2670">
+          <caret line="200" selection-start-line="200" selection-end-line="200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/TestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4200">
+          <caret line="351" selection-start-line="351" selection-end-line="351" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/NativeAndroid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/WebMobile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/utils/PerfectoLabUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="78" column="54" lean-forward="true" selection-start-line="78" selection-start-column="12" selection-end-line="78" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/utils/MyEyes.java" />
+    <entry file="file://$PROJECT_DIR$/chromedriver.log" />
+    <entry file="file://$PROJECT_DIR$/src/com/testing/pages/home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/chromedriver.log">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="177" column="29" selection-start-line="177" selection-start-column="29" selection-end-line="177" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/stream/AbstractPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="497" selection-start-line="497" selection-end-line="497" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_Web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="181" column="49" lean-forward="true" selection-start-line="181" selection-start-column="49" selection-end-line="181" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2294#3065#0" />
+            <element signature="e#3255#3436#0" />
+            <element signature="e#3439#4123#0" />
+            <element signature="e#4960#4991#0" />
+            <element signature="e#11446#11447#0" expanded="true" />
+            <element signature="e#11477#11478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="361" selection-start-line="361" selection-end-line="361" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/Web.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1642">
+          <caret line="282" selection-start-line="282" selection-end-line="282" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#LocalWebDemo_1#0;class#Web#0" />
+            <element signature="method#LocalWebDemo_2#0;class#Web#0" />
+            <element signature="method#LocalWebDemo_3#0;class#Web#0" />
+            <element signature="method#WikipediaDemo#0;class#Web#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:2.1_3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

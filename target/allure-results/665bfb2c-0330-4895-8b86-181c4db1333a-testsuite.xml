@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1543163453341" stop="1543163522388" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>DemoTestSuite : Firefox 63 1280[persona=, platformVersion=10, browserVersion=63.0.3, browserName=firefox, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</name>
+    <title>DemoTestSuite : Firefox 63 1280[persona=, platformVersion=10, browserVersion=63.0.3, browserName=firefox, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</title>
+    <test-cases>
+        <test-case start="1543163453359" stop="1543163453360" status="pending">
+            <name>SinglePageDemo</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="83316@Christophers-Applitools-MacBook-Pro.local.TestNG(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1543163453361" stop="1543163453361" status="pending">
+            <name>WikipediaDemo</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="83316@Christophers-Applitools-MacBook-Pro.local.TestNG(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1543163453341" stop="1543163522388" status="broken">
+            <name>DemoTestSuite : Firefox 63 1280[persona=, platformVersion=10, browserVersion=63.0.3, browserName=firefox, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</name>
+            <title>DemoTestSuite : Firefox 63 1280[persona=, platformVersion=10, browserVersion=63.0.3, browserName=firefox, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</title>
+            <failure>
+                <message>Test suite was interrupted, some test cases may be lost</message>
+            </failure>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

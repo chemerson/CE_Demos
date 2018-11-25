@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="100" name="DemoTestSuite" parallel="tests">
+
+    <!-- Set an explicit device id and it will be the device used. Other settings apply to the browser only -->
+
+    <test name="Android">
+        <parameter name="platformName" value="Android" />
+        <parameter name="platformVersion" value="" />
+        <parameter name="browserName" value="" />
+        <parameter name="browserVersion" value="" />
+        <parameter name="screenResolution" value="" />
+        <parameter name="location" value="" />
+        <parameter name="deviceName" value="0915F9818BD80603" />
+        <parameter name="persona" value="Chris" />
+
+        <classes>
+            <class name="com.testing.WebMobile" />
+        </classes>
+    </test>
+
+
+    <test name="iPhone">
+        <parameter name="platformName" value="iOS" />
+        <parameter name="platformVersion" value="" />
+        <parameter name="browserName" value="" />
+        <parameter name="browserVersion" value="" />
+        <parameter name="screenResolution" value="" />
+        <parameter name="location" value="" />
+        <parameter name="deviceName" value="BF4CBA87A378ABA0D16607D0E203468FB4CA7725" />
+        <parameter name="persona" value="Chris" />
+
+        <classes>
+            <class name="com.testing.WebMobile" />
+        </classes>
+    </test>
+
+    <!--
+
+
+        <test name="iPad">
+            <parameter name="platformName" value="iOS" />
+            <parameter name="platformVersion" value="" />
+            <parameter name="browserName" value="" />
+            <parameter name="browserVersion" value="" />
+            <parameter name="screenResolution" value="" />
+            <parameter name="location" value="" />
+            <parameter name="deviceName" value="2FC00D086052C606D2D57EA757B7450A216D3832" />
+            <parameter name="persona" value="Chris" />
+
+            <classes>
+                <class name="Web" />
+            </classes>
+        </test>
+-->
+
+
+    </suite>
