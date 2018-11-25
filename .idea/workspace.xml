@@ -2,202 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="914b7f99-004a-42bb-88ff-1885db3cde1b" name="Default" comment="TEST">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_applitools_eyes_common_java3_3_141_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_applitools_eyes_connectivity_java3_jersey2x_3_141_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_applitools_eyes_sdk_core_java3_3_141_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_applitools_eyes_selenium_java3_3_141_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_helger_ph_commons_9_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_helger_ph_css_6_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_1_m05.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_5_0_b36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_5_0_b36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_5_0_b36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_5_0_b36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_5_0_b36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_26_b03.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_connectors_jersey_apache_connector_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_26_b03.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_26_b03.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_imgscalr_imgscalr_lib_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openpnp_opencv_3_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_17_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_perfecto_reporting_sdk_reportium_java_1_0_293.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_perfecto_reporting_sdk_reportium_java_1_0_348.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_perfecto_reporting_sdk_reportium_java_1_1_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_appium_java_client_3_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_appium_java_client_5_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_appium_java_client_3_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_11_v20150529.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_11_v20150529.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_11_v20150529.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_11_v20150529.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_11_v20150529.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_48_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_46_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_46_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_46_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_46_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_46_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_46_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_46_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_46_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_46_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_6_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/src/test/java/com/perfecto/testing/WebScenarioParallel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/src/test/java/com/perfecto/testing/WebScenarioParallel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/src/test/java/com/perfecto/testing/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/src/test/java/com/perfecto/testing/utils/Utils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test Galaxy S6.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test Galaxy S6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test Galaxy S6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test Galaxy S6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test WebMachine.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test WebMachine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test WebMachine.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test WebMachine.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test iPhone6 Plus.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test iPhone6 Plus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test iPhone6 Plus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/Test iPhone6 Plus.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/Suite/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/bullet_point.png" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/bullet_point.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/collapseall.gif" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/collapseall.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/failed.png" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/failed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/jquery-1.7.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/jquery-1.7.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/junitreports/TEST-com.perfecto.testing.WebScenarioParallel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/junitreports/TEST-com.perfecto.testing.WebScenarioParallel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/navigator-bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/navigator-bullet.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/Test Galaxy S6.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/Test Galaxy S6.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/Test WebMachine.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/Test WebMachine.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/Test iPhone6 Plus.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/Test iPhone6 Plus.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/groups.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/methods-not-run.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/reporter-output.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/Suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/passed.png" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/passed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/skipped.png" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/skipped.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-reports.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-reports.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng.css" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/test-output/testng.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DigitalWebScenarioParallel/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/com/perfecto/testing/WebScenarioParallel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/test/java/com/perfecto/testing/WebScenarioParallel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/com/perfecto/testing/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/test/java/com/perfecto/testing/utils/Utils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/DemoPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/DemoPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/NativeAndroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/NativeAndroid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/NativeiOS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/NativeiOS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/Web.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/Web.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/WebMobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/WebMobile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/pages/home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/pages/home.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/utils/PerfectoLabUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/utils/PerfectoLabUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/utils/TestConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/utils/TestConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/utils/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/utils/VcsUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/utils/VcsUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perfecto/testing/utils/WebLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/utils/WebLocators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/DemoPlugin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/NativeAndroid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/NativeiOS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/Web.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/WebMobile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/pages/home.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/PerfectoLabUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/TestConstants$TestData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/TestConstants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/Utils$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/WebLocators$About.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/WebLocators$Home.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/WebLocators$PublicationsandForms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/WebLocators$SignUp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/WebLocators$SignUpForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/perfecto/testing/utils/WebLocators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default suite/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test Galaxy S6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test Galaxy S6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test WebMachine.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test WebMachine.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test iPhone6 Plus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test iPhone6 Plus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Suite/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.perfecto.testing.WebScenarioParallel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng_Native.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_Native.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng_NativeiOS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_NativeiOS.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng_Web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_Web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng_WebMobile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_WebMobile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng_demoplugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_demoplugin.xml" afterDir="false" />
     </list>
     <ignored path="Perfecto.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -266,13 +77,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="1465" />
-          <entry key="xml" value="176" />
+          <entry key="xml" value="192" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="1465" />
-          <entry key="XML" value="176" />
+          <entry key="XML" value="192" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -280,7 +91,7 @@
           <entry key="class" value="5" />
           <entry key="java" value="1" />
           <entry key="log" value="4" />
-          <entry key="xml" value="2" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -288,7 +99,7 @@
           <entry key="CLASS" value="5" />
           <entry key="JAVA" value="1" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="XML" value="2" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -298,11 +109,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/testing/Web.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1642">
-              <caret line="282" selection-start-line="282" selection-end-line="282" />
+            <state relative-caret-position="418">
+              <caret line="210" column="46" selection-start-line="210" selection-start-column="46" selection-end-line="210" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#LocalWebDemo_1#0;class#Web#0" />
@@ -314,11 +125,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="212" column="12" selection-start-line="212" selection-start-column="12" selection-end-line="212" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/testing/utils/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="277">
-              <caret line="181" column="49" lean-forward="true" selection-start-line="181" selection-start-column="49" selection-end-line="181" selection-end-column="49" />
+              <caret line="181" column="49" selection-start-line="181" selection-start-column="49" selection-end-line="181" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2294#3065#0" />
@@ -398,7 +218,11 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="5aaefdd0-d072-4d75-86d0-fedf2dc27a70" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -423,10 +247,10 @@
         <option value="$PROJECT_DIR$/testng_demoplugin.xml" />
         <option value="$PROJECT_DIR$/src/com/testing/utils/MyEyes.java" />
         <option value="$PROJECT_DIR$/src/com/testing/pages/home.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/com/testing/utils/Utils.java" />
         <option value="$PROJECT_DIR$/testng_Web.xml" />
         <option value="$PROJECT_DIR$/src/com/testing/Web.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -498,13 +322,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543186595617" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543189147772" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3402299" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -989,9 +813,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Web - 2018.11.25 at 15h 36m 00s.xml">
-      <configuration name="Web" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="Web - 2018.11.25 at 15h 53m 32s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
@@ -1019,6 +840,9 @@
     <history-entry file="Web - 2018.11.25 at 17h 56m 55s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="Web - 2018.11.25 at 18h 33m 17s.xml">
+      <configuration name="Web" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="56550000" />
@@ -1033,7 +857,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1680" height="976" extended-state="6" />
+    <frame x="-1" y="24" width="1680" height="976" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12698413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.14295977" />
@@ -1054,7 +878,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.27714932" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.1941392" side_tool="true" weight="0.19205298" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49761337" weight="0.27642277" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.329849" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.092915215" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.7937428" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" x="1171" y="320" width="628" height="433" id="Perfecto Lab" order="1" weight="0.7680098" />
@@ -1107,6 +931,7 @@
     <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
@@ -1312,13 +1137,6 @@
       </provider>
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="177" column="29" selection-start-line="177" selection-start-column="29" selection-end-line="177" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/stream/AbstractPipeline.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -1336,7 +1154,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/testing/utils/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
-          <caret line="181" column="49" lean-forward="true" selection-start-line="181" selection-start-column="49" selection-end-line="181" selection-end-column="49" />
+          <caret line="181" column="49" selection-start-line="181" selection-start-column="49" selection-end-line="181" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2294#3065#0" />
@@ -1365,8 +1183,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/testing/Web.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1642">
-          <caret line="282" selection-start-line="282" selection-end-line="282" />
+        <state relative-caret-position="418">
+          <caret line="210" column="46" selection-start-line="210" selection-start-column="46" selection-end-line="210" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#LocalWebDemo_1#0;class#Web#0" />
@@ -1374,6 +1192,13 @@
             <element signature="method#LocalWebDemo_3#0;class#Web#0" />
             <element signature="method#WikipediaDemo#0;class#Web#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="212" column="12" selection-start-line="212" selection-start-column="12" selection-end-line="212" selection-end-column="12" />
         </state>
       </provider>
     </entry>
