@@ -100,6 +100,7 @@ public class Utils {
 		cOptions.addArguments("--disable-default-apps");
 		cOptions.addArguments("--start-maximized");
 		cOptions.addArguments("--disable-infobars");
+		cOptions.addArguments("–-disable-notifications");
 		cOptions.addArguments("--dom-automation");
 
 /*

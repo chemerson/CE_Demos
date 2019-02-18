@@ -19,8 +19,6 @@
     </test>
 
 
-
-
     <!--
         <test name="Firefox 63 1280">
             <parameter name="platformName" value="Windows" />

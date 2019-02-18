@@ -39,7 +39,7 @@ public class VisualGrid {
 
 	private static final String SOURCE_FILE_ROOT_PATH = "src";
 	private static final String BATCH_NAME = "Marriott Demo 1";
-	private static final String BATCH_ID = "Marriott1";  //optional or null, keep all tests in the same batch
+	private static final String BATCH_ID = null;  //optional or null, keep all tests in the same batch
 	private static final String APP_NAME = "Marriott";
 
 
@@ -53,10 +53,8 @@ public class VisualGrid {
 
 		eyes.setMatchLevel(MatchLevel.EXACT);
 		renderConfig.setTestName(testName);
-		renderConfig.setAppName(APP_NAME);
 
-
-		driver = Utils.getLocalWebDriver();
+		//driver = Utils.getLocalWebDriver();
 		eyes.open(driver, renderConfig);
 
 		String[] arr = new String[0];
@@ -72,13 +70,12 @@ public class VisualGrid {
 			e.printStackTrace();
 		}
 
-		for(i=1;i<arr.length;i++){
+		for(i=1;i<3;i++){ //arr.length;i++){
 			before = System.currentTimeMillis();
 			System.out.println("Checking URL " + i + ": " + arr[i]);
 			try {
 				driver.get(arr[i]);
 				Utils.scrollPage(driver);
-				System.out.println("-- Eyes Check --");
 				eyes.check(arr[1], Target.window());
 			} catch (Exception e) {
 				System.out.println("FAILED URL " + i + " in " + (System.currentTimeMillis() - before) + "ms");
@@ -92,6 +89,9 @@ public class VisualGrid {
 				eyes.open(driver, renderConfig);
 			}
 		}
+		eyes.close();
+		TestResultSummary allTestResults = VisualGrid.getAllTestResults();
+		System.out.println("Results: " + allTestResults);
 	}
 
 
@@ -150,11 +150,11 @@ public class VisualGrid {
 		browserVersion = "Local Version";
 
 		renderConfig.setAppName("APP_NAME");
-		renderConfig.addBrowser(800,  600, RenderingConfiguration.BrowserType.CHROME);
-		renderConfig.addBrowser(1200, 800, RenderingConfiguration.BrowserType.CHROME);
+		//renderConfig.addBrowser(800,  600, RenderingConfiguration.BrowserType.CHROME);
+		//renderConfig.addBrowser(1200, 800, RenderingConfiguration.BrowserType.CHROME);
 		renderConfig.addBrowser(1600, 800, RenderingConfiguration.BrowserType.CHROME);
-		renderConfig.addBrowser(700,  500, RenderingConfiguration.BrowserType.FIREFOX);
-		renderConfig.addBrowser(1200,  800, RenderingConfiguration.BrowserType.FIREFOX);
+		//renderConfig.addBrowser(700,  500, RenderingConfiguration.BrowserType.FIREFOX);
+		//renderConfig.addBrowser(1200,  800, RenderingConfiguration.BrowserType.FIREFOX);
 		renderConfig.addBrowser(1600,  800, RenderingConfiguration.BrowserType.FIREFOX);
 
 

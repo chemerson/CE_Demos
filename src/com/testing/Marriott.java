@@ -85,7 +85,7 @@ public class Marriott {
 			try {
 				driver.get(arr[i]);
 				Utils.scrollPage(driver);
-				eyes.checkWindow(arr[1]);
+				eyes.check(arr[1], Target.window());
 			} catch (Exception e) {
 				System.out.println("FAILED URL " + i + " in " + (System.currentTimeMillis() - before) + "ms");
 				e.printStackTrace();
