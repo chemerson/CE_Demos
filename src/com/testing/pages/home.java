@@ -23,7 +23,7 @@ public class home {
     public boolean openHomePage() {
 
         driver.get("https://www.wikipedia.com");
-        Utils.checkMyWindow(eyes, "Home Page");
+        eyes.checkWindow("Home");
 
         return true;
     }
@@ -31,7 +31,7 @@ public class home {
     public boolean clickEnglish() {
 
         driver.findElement(By.id("js-link-box-en")).click();
-        Utils.checkMyWindow(eyes, "English Page");
+        eyes.checkWindow("home");
 
         return true;
 

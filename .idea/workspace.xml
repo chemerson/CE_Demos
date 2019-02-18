@@ -2,13 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="914b7f99-004a-42bb-88ff-1885db3cde1b" name="Default" comment="TEST">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/urls.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cloudgrids/perfecto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testing/Marriott.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testing/VisualGrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_applitools_eyes_common_java3_3_143_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_applitools_eyes_connectivity_java3_jersey2x_3_143_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_applitools_eyes_sdk_core_java3_3_143_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_applitools_eyes_selenium_java3_3_143_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_helger_ph_commons_9_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_helger_ph_css_6_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_perfecto_reporting_sdk_reportium_java_1_0_348.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_perfecto_reporting_sdk_reportium_java_2_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_connectors_jersey_apache_connector_2_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_imgscalr_imgscalr_lib_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/chromedriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/chromedriver.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testing/DemoPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testing/Web.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/Web.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testing/pages/home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/pages/home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testing/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testing/DemoPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testing/Web.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testing/Web.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testing/pages/home.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testing/pages/home.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testing/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testing/utils/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_Web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_Web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_demoplugin.xml" beforeDir="false" />
     </list>
     <ignored path="Perfecto.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,88 +52,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="571033339">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="6" />
-          <entry key="java" value="10" />
-          <entry key="xml" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="10" />
-          <entry key="XML" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="2290" />
-          <entry key="xml" value="139" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2290" />
-          <entry key="XML" value="139" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="305686415">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="1465" />
-          <entry key="xml" value="192" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1465" />
-          <entry key="XML" value="192" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="5" />
-          <entry key="java" value="1" />
-          <entry key="log" value="4" />
-          <entry key="xml" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="1" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="XML" value="3" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="Perfecto" />
   </component>
@@ -112,24 +60,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/testing/Web.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="210" column="46" selection-start-line="210" selection-start-column="46" selection-end-line="210" selection-end-column="46" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="50" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="method#LocalWebDemo_1#0;class#Web#0" />
                 <element signature="method#LocalWebDemo_2#0;class#Web#0" />
-                <element signature="method#LocalWebDemo_3#0;class#Web#0" />
-                <element signature="method#WikipediaDemo#0;class#Web#0" />
+                <element signature="e#8526#9510#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/testing/Marriott.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="212" column="12" selection-start-line="212" selection-start-column="12" selection-end-line="212" selection-end-column="12" />
+            <state relative-caret-position="96">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2586#2594#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/testing/VisualGrid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1051">
+              <caret line="137" selection-start-line="137" selection-end-line="137" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#WebDemo#0;class#VisualGrid#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,26 +100,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/testing/utils/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="181" column="49" selection-start-line="181" selection-start-column="49" selection-end-line="181" selection-end-column="49" />
+            <state relative-caret-position="181">
+              <caret line="102" column="50" selection-start-line="102" selection-start-column="50" selection-end-line="102" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2294#3065#0" />
-                <element signature="e#3255#3436#0" />
-                <element signature="e#3439#4123#0" />
-                <element signature="e#4960#4991#0" />
-                <element signature="e#11446#11447#0" expanded="true" />
-                <element signature="e#11477#11478#0" expanded="true" />
+                <element signature="e#2809#3380#1" />
+                <element signature="e#4918#8518#0" />
+                <element signature="e#9249#12193#0" />
+                <element signature="e#12105#12106#0" expanded="true" />
+                <element signature="e#12136#12137#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testng_Web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/urls.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3435">
+              <caret line="229" column="84" selection-start-line="229" selection-start-column="84" selection-end-line="229" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -172,26 +143,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>gson</find>
-      <find>google</find>
-      <find>appium</find>
-      <find>swipe</find>
-      <find>error</find>
-      <find>guava</find>
-      <find>driver.findElementByXPath(</find>
-      <find>automationname</find>
-      <find>mobilesafar</find>
-      <find>safari</find>
-      <find>logs</find>
-      <find>reportium</find>
-      <find>vcs_url_key</find>
-      <find>SCRIPT_NAME</find>
-      <find>demoscript</find>
-      <find>DemoCME_3</find>
-      <find>DemoTag</find>
-      <find>fluentwait</find>
-      <find>selenium</find>
-      <find>fluent</find>
       <find>timeout</find>
       <find>home</find>
       <find>threshol</find>
@@ -202,6 +153,26 @@
       <find>//eyes</find>
       <find>PERFECTO_HOST</find>
       <find>USE_PERFECTO</find>
+      <find>faster</find>
+      <find>log</find>
+      <find>Library Tests</find>
+      <find>`</find>
+      <find>driver.findElement(By.xpath(</find>
+      <find>)).click();</find>
+      <find>);</find>
+      <find>chrome</find>
+      <find>getLocalWebDriver</find>
+      <find>grid</find>
+      <find>USE</find>
+      <find>USE_GRID</find>
+      <find>open</find>
+      <find>stitch</find>
+      <find>eyes</find>
+      <find>checkMyWindow</find>
+      <find>SECURITY_TOKEN</find>
+      <find>screenResolution</find>
+      <find>automati</find>
+      <find>eyes.open</find>
     </findStrings>
     <replaceStrings>
       <replace>driver</replace>
@@ -212,6 +183,10 @@
       <replace>eyes.</replace>
       <replace>GRID_HOST</replace>
       <replace>USE_GRID</replace>
+      <replace>Utils.</replace>
+      <replace>, stepDelay);</replace>
+      <replace>);eyes.checkWindow();</replace>
+      <replace>PERFECTO_SECURITY_TOKEN</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -247,10 +222,19 @@
         <option value="$PROJECT_DIR$/testng_demoplugin.xml" />
         <option value="$PROJECT_DIR$/src/com/testing/utils/MyEyes.java" />
         <option value="$PROJECT_DIR$/src/com/testing/pages/home.java" />
-        <option value="$PROJECT_DIR$/src/com/testing/utils/Utils.java" />
-        <option value="$PROJECT_DIR$/testng_Web.xml" />
-        <option value="$PROJECT_DIR$/src/com/testing/Web.java" />
+        <option value="$PROJECT_DIR$/src/com/testing/visualGrid.java" />
+        <option value="$PROJECT_DIR$/src/com/testing/Crawl.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/com/testing/Crawler.java" />
+        <option value="$PROJECT_DIR$/src/cloudgrids/perfecto.java" />
+        <option value="$PROJECT_DIR$/src/com/testing/StaticURL.java" />
+        <option value="$PROJECT_DIR$/src/com/testing/DemoPlugin.java" />
+        <option value="$PROJECT_DIR$/resources/urls.csv" />
+        <option value="$PROJECT_DIR$/src/com/testing/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/com/testing/Web.java" />
+        <option value="$PROJECT_DIR$/src/com/testing/VisualGrid.java" />
+        <option value="$PROJECT_DIR$/src/com/testing/Marriott.java" />
+        <option value="$PROJECT_DIR$/testng_Web.xml" />
       </list>
     </option>
   </component>
@@ -281,10 +265,11 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="976" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="805" />
+    <option name="y" value="-1417" />
+    <option name="width" value="1330" />
+    <option name="height" value="1362" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -294,7 +279,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -306,32 +290,50 @@
             <path>
               <item name="CE_Demos" type="b2602c69:ProjectViewProjectNode" />
               <item name="CE_Demos" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CE_Demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CE_Demos" type="462c0819:PsiDirectoryNode" />
               <item name="log" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CE_Demos" type="b2602c69:ProjectViewProjectNode" />
               <item name="CE_Demos" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CE_Demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CE_Demos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CE_Demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CE_Demos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543189329312" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550463883186" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3402299" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.testing" />
       <recent name="com.perfecto.testing" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -421,7 +423,7 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
+    <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
@@ -436,6 +438,7 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -488,7 +491,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoPlugin" type="TestNG" factoryName="TestNG">
+    <configuration name="DemoPlugin" type="TestNG">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_demoplugin.xml" />
       <option name="PACKAGE_NAME" value="" />
@@ -510,7 +513,7 @@
         <option name="MakeProject" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Native" type="TestNG" factoryName="TestNG" temporary="true">
+    <configuration name="Native" type="TestNG" temporary="true">
       <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_Native.xml" />
       <option name="PACKAGE_NAME" value="" />
@@ -532,7 +535,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NativeiOS" type="TestNG" factoryName="TestNG">
+    <configuration name="NativeiOS" type="TestNG">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_NativeiOS.xml" />
       <option name="PACKAGE_NAME" value="" />
@@ -554,14 +557,14 @@
         <option name="MakeProject" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Web" type="TestNG" factoryName="TestNG">
+    <configuration name="Web" type="TestNG">
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_Web.xml" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea -DuseSeleniumGrid=1 -DtestEyes=1 -DeyesAPIKey=8pVdTA8n6joSM18VHrggfo9OHmhaFjepyAbkdrZ1NcU110 -DtestHost=localhost:4444 -DtestToken=eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJLc1BUWU1zZHBSZ21LXzk4OGZwaUx6cWsxdWpZMnduZG5SQU50ejgyVHBNIn0.eyJqdGkiOiJiNmZlM2JkMy03NmI3LTQwOTEtOWRhZi05NTFkMTNjOTQzNmMiLCJleHAiOjAsIm5iZiI6MCwiaWF0IjoxNTQyMTA3NjQzLCJpc3MiOiJodHRwczovL2F1dGgucGVyZmVjdG9tb2JpbGUuY29tL2F1dGgvcmVhbG1zL3BhcnRuZXJzLXBlcmZlY3RvbW9iaWxlLWNvbSIsImF1ZCI6Im9mZmxpbmUtdG9rZW4tZ2VuZXJhdG9yIiwic3ViIjoiNjczOTkwMzYtZjA3ZC00OTZhLWI3NmItZDg1ODBhY2YzMGY3IiwidHlwIjoiT2ZmbGluZSIsImF6cCI6Im9mZmxpbmUtdG9rZW4tZ2VuZXJhdG9yIiwiYXV0aF90aW1lIjowLCJzZXNzaW9uX3N0YXRlIjoiMGRmNDVkMDUtZTZmYi00ZjMyLWI0YjItM2YyNjA4ZWNhNGY4IiwicmVhbG1fYWNjZXNzIjp7InJvbGVzIjpbIm9mZmxpbmVfYWNjZXNzIl19LCJyZXNvdXJjZV9hY2Nlc3MiOnsiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwidmlldy1wcm9maWxlIl19fX0.D3jaWe5hdvPam55_1kGxnkfVxMGxkX9xOvQGVeBz__mQkjQYmWdgAtEOQZ0Vkuia_6BZr_n3R-Wb8CSefKRIIUIvbQ_3rhnA4YbiC1tjo6lXhEogg7Wuh_H2WCxsJUJMwOzqz6XB75FLVOwXry-TRCd2fMFFEfM1pm8imJcQ4MUPwlkJ6aZizwftmmfm4F2iWU0nCF3ynu7i7QaUE2mq0lZszPiLhlpT899MbHvst7q3hQbU2vI7GIzK_N4ThOt_qhMX0AsldhE6Bqt_uVUyfmeRogXTg7Tx4LfWHe05McAXkdmM7VsgzhlVUt5fJJZP1TMYAccS3ht_9GfgHDogRg" />
+      <option name="VM_PARAMETERS" value="-ea -DuseSeleniumGrid=0 -DtestEyes=1 -DeyesAPIKey=8pVdTA8n6joSM18VHrggfo9OHmhaFjepyAbkdrZ1NcU110 -DtestHost=localhost:4444 -DtestToken=eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJLc1BUWU1zZHBSZ21LXzk4OGZwaUx6cWsxdWpZMnduZG5SQU50ejgyVHBNIn0.eyJqdGkiOiJiNmZlM2JkMy03NmI3LTQwOTEtOWRhZi05NTFkMTNjOTQzNmMiLCJleHAiOjAsIm5iZiI6MCwiaWF0IjoxNTQyMTA3NjQzLCJpc3MiOiJodHRwczovL2F1dGgucGVyZmVjdG9tb2JpbGUuY29tL2F1dGgvcmVhbG1zL3BhcnRuZXJzLXBlcmZlY3RvbW9iaWxlLWNvbSIsImF1ZCI6Im9mZmxpbmUtdG9rZW4tZ2VuZXJhdG9yIiwic3ViIjoiNjczOTkwMzYtZjA3ZC00OTZhLWI3NmItZDg1ODBhY2YzMGY3IiwidHlwIjoiT2ZmbGluZSIsImF6cCI6Im9mZmxpbmUtdG9rZW4tZ2VuZXJhdG9yIiwiYXV0aF90aW1lIjowLCJzZXNzaW9uX3N0YXRlIjoiMGRmNDVkMDUtZTZmYi00ZjMyLWI0YjItM2YyNjA4ZWNhNGY4IiwicmVhbG1fYWNjZXNzIjp7InJvbGVzIjpbIm9mZmxpbmVfYWNjZXNzIl19LCJyZXNvdXJjZV9hY2Nlc3MiOnsiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwidmlldy1wcm9maWxlIl19fX0.D3jaWe5hdvPam55_1kGxnkfVxMGxkX9xOvQGVeBz__mQkjQYmWdgAtEOQZ0Vkuia_6BZr_n3R-Wb8CSefKRIIUIvbQ_3rhnA4YbiC1tjo6lXhEogg7Wuh_H2WCxsJUJMwOzqz6XB75FLVOwXry-TRCd2fMFFEfM1pm8imJcQ4MUPwlkJ6aZizwftmmfm4F2iWU0nCF3ynu7i7QaUE2mq0lZszPiLhlpT899MbHvst7q3hQbU2vI7GIzK_N4ThOt_qhMX0AsldhE6Bqt_uVUyfmeRogXTg7Tx4LfWHe05McAXkdmM7VsgzhlVUt5fJJZP1TMYAccS3ht_9GfgHDogRg" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" value="" />
@@ -575,7 +578,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebMobile" type="TestNG" factoryName="TestNG">
+    <configuration name="WebMobile" type="TestNG">
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_WebMobile.xml" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="" />
@@ -596,7 +599,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Web.WebDemo" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Web.WebDemo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
@@ -615,7 +618,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -623,20 +626,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.WebMobile" />
-      <item itemvalue="TestNG.Web" />
       <item itemvalue="TestNG.DemoPlugin" />
       <item itemvalue="TestNG.NativeiOS" />
+      <item itemvalue="TestNG.WebMobile" />
+      <item itemvalue="TestNG.Web" />
       <item itemvalue="TestNG.Native" />
       <item itemvalue="TestNG.Web.WebDemo" />
     </list>
@@ -809,38 +812,45 @@
       <option name="project" value="LOCAL" />
       <updated>1483379811898</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Remove bad dependencies">
+      <created>1543189200322</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1543189200322</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Web - 2018.11.25 at 15h 53m 32s.xml">
+    <history-entry file="Web - 2019.02.17 at 21h 01m 31s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2018.11.25 at 16h 05m 17s.xml">
+    <history-entry file="Web - 2019.02.17 at 21h 17m 44s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2018.11.25 at 16h 09m 31s.xml">
+    <history-entry file="Web - 2019.02.17 at 21h 23m 56s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2018.11.25 at 16h 12m 27s.xml">
+    <history-entry file="Web - 2019.02.17 at 21h 25m 43s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2018.11.25 at 16h 22m 23s.xml">
+    <history-entry file="Web - 2019.02.17 at 21h 28m 09s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2018.11.25 at 16h 44m 21s.xml">
+    <history-entry file="Web - 2019.02.17 at 21h 29m 50s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2018.11.25 at 17h 12m 02s.xml">
+    <history-entry file="Web - 2019.02.17 at 22h 41m 40s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2018.11.25 at 17h 18m 26s.xml">
+    <history-entry file="Web - 2019.02.17 at 22h 44m 57s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2018.11.25 at 17h 56m 55s.xml">
+    <history-entry file="Web - 2019.02.17 at 22h 55m 33s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2018.11.25 at 18h 33m 17s.xml">
+    <history-entry file="Web - 2019.02.17 at 23h 18m 03s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -857,9 +867,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="24" width="1680" height="976" extended-state="6" />
+    <frame x="805" y="-1417" width="1330" height="1362" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12698413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20574534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.14295977" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -869,15 +879,15 @@
       <window_info id="Palette&#9;" order="7" />
       <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32752612" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8058608" visible="true" weight="0.3821138" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31707317" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.12830794" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7405372" visible="true" weight="0.35605454" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34322375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32908458" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.27714932" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.1941392" side_tool="true" weight="0.19205298" />
-      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49761337" weight="0.27642277" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.25946277" side_tool="true" weight="0.3821138" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.4969475" weight="0.27425823" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.092915215" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.7937428" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -892,6 +902,7 @@
       <window_info anchor="right" id="Properties" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info anchor="right" id="Maven Projects" order="11" weight="0.32924336" />
+      <window_info anchor="right" id="Maven" order="12" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08154506" />
@@ -949,9 +960,6 @@
       <collection />
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic comment" />
     <MESSAGE value="Made RemoteWebdriver and Reportium Factories to support multiple threads safely - prevents inadvertent object sharing" />
@@ -962,7 +970,8 @@
     <MESSAGE value="Example push" />
     <MESSAGE value="Misc Updates" />
     <MESSAGE value="TEST" />
-    <option name="LAST_COMMIT_MESSAGE" value="TEST" />
+    <MESSAGE value="Remove bad dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove bad dependencies" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1044,13 +1053,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testing/DemoPlugin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testng_demoplugin.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1119,58 +1121,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/testing/utils/MyEyes.java" />
     <entry file="file://$PROJECT_DIR$/chromedriver.log" />
-    <entry file="file://$PROJECT_DIR$/src/com/testing/pages/home.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/log/chromedriver.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/stream/AbstractPipeline.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="497" selection-start-line="497" selection-end-line="497" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng_Web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testing/utils/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="181" column="49" selection-start-line="181" selection-start-column="49" selection-end-line="181" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2294#3065#0" />
-            <element signature="e#3255#3436#0" />
-            <element signature="e#3439#4123#0" />
-            <element signature="e#4960#4991#0" />
-            <element signature="e#11446#11447#0" expanded="true" />
-            <element signature="e#11477#11478#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="361" selection-start-line="361" selection-end-line="361" />
         </state>
       </provider>
     </entry>
@@ -1181,24 +1143,232 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testing/Web.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/applitools/eyes-common-java3/3.143.1/eyes-common-java3-3.143.1.jar!/com/applitools/eyes/config/Configuration.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="210" column="46" selection-start-line="210" selection-start-column="46" selection-end-line="210" selection-end-column="46" />
+        <state relative-caret-position="290">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#LocalWebDemo_1#0;class#Web#0" />
-            <element signature="method#LocalWebDemo_2#0;class#Web#0" />
-            <element signature="method#LocalWebDemo_3#0;class#Web#0" />
-            <element signature="method#WikipediaDemo#0;class#Web#0" />
+            <element signature="e#3152#3153#0" expanded="true" />
+            <element signature="e#3190#3191#0" expanded="true" />
+            <element signature="e#3309#3310#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4395">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28155">
+          <caret line="2034" selection-start-line="2034" selection-end-line="2034" />
+          <folding>
+            <element signature="e#83250#83251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2715">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+          <folding>
+            <element signature="e#8112#8113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8505">
+          <caret line="611" selection-start-line="611" selection-end-line="611" />
+          <folding>
+            <element signature="e#24394#24395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4365">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+          <folding>
+            <element signature="e#11597#11598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/applitools/eyes-sdk-core-java3/3.143.1/eyes-sdk-core-java3-3.143.1.jar!/com/applitools/eyes/EyesBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2670">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
+          <folding>
+            <element signature="e#8822#8823#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/applitools/eyes-common-java3/3.143.1/eyes-common-java3-3.143.1.jar!/com/applitools/eyes/NullLogHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/applitools/eyes-common-java3/3.143.1/eyes-common-java3-3.143.1.jar!/com/applitools/eyes/Logger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#449#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="238" selection-start-line="238" selection-end-line="238" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/applitools/eyes-sdk-core-java3/3.143.1/eyes-sdk-core-java3-3.143.1.jar!/com/applitools/eyes/diagnostics/ResponseTimeAlgorithm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="157" column="48" lean-forward="true" selection-start-line="157" selection-start-column="48" selection-end-line="157" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/applitools/eyes-selenium-java3/3.143.1/eyes-selenium-java3-3.143.1.jar!/com/applitools/eyes/selenium/Eyes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1742">
+          <caret line="304" selection-start-line="304" selection-end-line="304" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/pages/home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/Crawl.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="212" column="12" selection-start-line="212" selection-start-column="12" selection-end-line="212" selection-end-column="12" />
+        <state relative-caret-position="637">
+          <caret line="107" column="25" selection-start-line="107" selection-start-column="25" selection-end-line="107" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cloudgrids/perfecto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="505" lean-forward="true" selection-start-line="505" selection-end-line="505" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/DemoPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1424">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="467" selection-start-line="467" selection-end-line="467" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/urls.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3435">
+          <caret line="229" column="84" selection-start-line="229" selection-start-column="84" selection-end-line="229" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="102" column="50" selection-start-line="102" selection-start-column="50" selection-end-line="102" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2809#3380#1" />
+            <element signature="e#4918#8518#0" />
+            <element signature="e#9249#12193#0" />
+            <element signature="e#12105#12106#0" expanded="true" />
+            <element signature="e#12136#12137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/StaticURL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2414#2422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/VisualGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1051">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#WebDemo#0;class#VisualGrid#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/Web.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="method#LocalWebDemo_1#0;class#Web#0" />
+            <element signature="method#LocalWebDemo_2#0;class#Web#0" />
+            <element signature="e#8526#9510#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/Marriott.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2586#2594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_Web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/DigitalWebScenarioParallel/src/test/java/com/perfecto/testing/WebScenarioParallel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#7647#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,33 +1,26 @@
 package com.testing;
 
-import java.net.MalformedURLException;
-import java.time.LocalTime;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Random;
-import java.util.concurrent.TimeUnit;
-import java.util.logging.Level;
 
+import java.net.MalformedURLException;
+import java.util.concurrent.TimeUnit;
 import com.applitools.eyes.BatchInfo;
 import com.applitools.eyes.MatchLevel;
+import com.applitools.eyes.RectangleSize;
+import com.applitools.eyes.Region;
+import com.applitools.eyes.images.EyesImagesScreenshot;
 import com.applitools.eyes.selenium.Eyes;
 import com.applitools.eyes.selenium.StitchMode;
+import com.applitools.eyes.selenium.fluent.Target;
+
 import com.perfecto.reportium.client.ReportiumClient;
 import com.testing.pages.home;
 import com.testing.utils.Utils;
 import org.openqa.selenium.*;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.logging.LogEntries;
-import org.openqa.selenium.logging.LogEntry;
-import org.openqa.selenium.logging.LogType;
-import org.openqa.selenium.logging.Logs;
-import org.openqa.selenium.remote.DriverCommand;
-import org.openqa.selenium.remote.RemoteExecuteMethod;
+
+
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.*;
-import static org.testng.Assert.*;
 
 
 public class Web {
@@ -38,28 +31,48 @@ public class Web {
 	protected home objHome;
 
 	protected Eyes eyes;
+	protected Target target;
 
 	private static final String SOURCE_FILE_ROOT_PATH = "src";
+	private static final String BATCH_NAME = "Marriott Web";
+	private static final String BATCH_ID = null;  //optional - setting will keep all tests in the same batch
+	private static final String APP_NAME = "Marriott";
+
+
+
+
 
 
 	@Parameters({"platformName", "platformVersion", "browserName", "browserVersion", "screenResolution", "location", "deviceName", "persona"})
-	@Test(priority = 1, alwaysRun = true, enabled = true)
+	@Test(priority = 1, alwaysRun = true, enabled = false)
 	public void LocalWebDemo_1(String platformName ,String platformVersion, String browserName, String browserVersion,
-						String screenResolution,  String location, String deviceName, String persona) {
+							   String screenResolution,  String location, String deviceName, String persona) {
 
-		//eyes.setBaselineBranchName("New Branch");
-		//eyes.setEnvName("Chrome (New Branch)");
+
+
+		//Force to check against specific baseline branch
+		eyes.setBaselineBranchName("LLFireFox");
+		//Force to check witht he forced baselines corresponding environment
+		eyes.setBaselineEnvName("firefox 63.0.3");
+
+		//Set the environment name in the test batch results
+		eyes.setEnvName(driver.getCapabilities().getBrowserName() + " " + driver.getCapabilities().getVersion());
+
 
 		eyes.setMatchLevel(MatchLevel.CONTENT);
 		eyes.setStitchMode(StitchMode.SCROLL);
 		eyes.setForceFullPageScreenshot(true);
 		eyes.setSendDom(true);
-		eyes.open(driver, "Local Library", "Check Links - Demo");
+
+		eyes.open(driver, APP_NAME, "Check Links");
 
 		try {
 
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 			driver.get("http://Christophers-Applitools-MacBook-Pro.local:3000/catalog");
+
+			eyes.check("TEST", target.region(By.cssSelector("body > div > div > div.col-sm-10 > img:nth-child(1)")).fully());
+
 			eyes.checkWindow("Home Page");
 			driver.findElement(By.linkText("All authors")).click();
 			eyes.checkWindow("All authors");
@@ -69,6 +82,8 @@ public class Web {
 			eyes.checkWindow("All book-instances");
 			driver.findElement(By.linkText("Create new author")).click();
 			eyes.checkWindow("Create new author");
+			
+
 
 			eyes.close();
 		} catch (Exception e) {
@@ -77,9 +92,8 @@ public class Web {
 		}
 	}
 
-
 	@Parameters({"platformName", "platformVersion", "browserName", "browserVersion", "screenResolution", "location", "deviceName", "persona"})
-	@Test(priority = 1, alwaysRun = true, enabled = true)
+	@Test(priority = 1, alwaysRun = true, enabled = false)
 	public void LocalWebDemo_2(String platformName ,String platformVersion, String browserName, String browserVersion,
 							   String screenResolution,  String location, String deviceName, String persona) {
 
@@ -90,7 +104,8 @@ public class Web {
 		eyes.setStitchMode(StitchMode.SCROLL);
 		eyes.setForceFullPageScreenshot(true);
 		eyes.setSendDom(true);
-		eyes.open(driver, "Local Library", "Check Books - Demo");
+		eyes.open(driver, APP_NAME, "Check Books");
+
 
 		try {
 
@@ -132,9 +147,8 @@ public class Web {
 		}
 	}
 
-
 	@Parameters({"platformName", "platformVersion", "browserName", "browserVersion", "screenResolution", "location", "deviceName", "persona"})
-	@Test(priority = 1, alwaysRun = true, enabled = true)
+	@Test(priority = 1, alwaysRun = true, enabled = false)
 	public void LocalWebDemo_3(String platformName ,String platformVersion, String browserName, String browserVersion,
 							   String screenResolution,  String location, String deviceName, String persona) {
 
@@ -145,7 +159,9 @@ public class Web {
 		eyes.setStitchMode(StitchMode.SCROLL);
 		eyes.setForceFullPageScreenshot(true);
 		eyes.setSendDom(true);
-		eyes.open(driver, "Local Library", "Check Genres - Demo");
+		eyes.setBaselineEnvName(driver.getCapabilities().getBrowserName() + " " + driver.getCapabilities().getVersion());
+		eyes.open(driver, APP_NAME, "Check Genre");
+
 
 		try {
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
@@ -175,67 +191,6 @@ public class Web {
 	}
 
 	@Parameters({"platformName", "platformVersion", "browserName", "browserVersion", "screenResolution", "location", "deviceName", "persona"})
-	@Test(priority = 1, alwaysRun = true, enabled = false)
-	public void WikipediaDemo(String platformName ,String platformVersion, String browserName, String browserVersion,
-							  String screenResolution,  String location, String deviceName, String persona) {
-
-		eyes.setBaselineBranchName("New Branch");
-		eyes.setEnvName("Chrome (New Branch)");
-		eyes.setMatchLevel(MatchLevel.LAYOUT);
-		eyes.setStitchMode(StitchMode.SCROLL);
-		eyes.setForceFullPageScreenshot(true);
-		eyes.open(driver, "Wikipedia", "Home Page RCA");
-
-		try {
-			objHome = new home(driver,eyes);
-
-			objHome.openHomePage();
-			objHome.clickEnglish();
-
-			eyes.close();
-		} catch (Exception e) {
-			eyes.abortIfNotClosed();
-			e.printStackTrace();
-		}
-	}
-
-	@Parameters({"platformName", "platformVersion", "browserName", "browserVersion", "screenResolution", "location", "deviceName", "persona"})
-	@Test(priority = 1, alwaysRun = true, enabled = false)
-	public void SinglePageDemo(String platformName ,String platformVersion, String browserName, String browserVersion,
-							 String screenResolution,  String location, String deviceName, String persona) {
-
-		//eyes.setBaselineBranchName("New Branch");
-		//eyes.setEnvName("Chrome (New Branch)");
-		eyes.setMatchLevel(MatchLevel.LAYOUT);
-		eyes.setStitchMode(StitchMode.CSS);
-		eyes.setForceFullPageScreenshot(true);
-		eyes.setSendDom(true);
-		eyes.open(driver, "Web", "Popular Mechanics");
-
-		try {
-
-			driver.get("https://www.popularmechanics.com");
-			eyes.checkWindow();
-
-			eyes.close();
-		} catch (Exception e) {
-			eyes.abortIfNotClosed();
-			e.printStackTrace();
-		}
-	}
-
-
-	private boolean isElementPresent(By by) {
-		try {
-			driver.findElement(by);
-			return true;
-		} catch (NoSuchElementException e) {
-			return false;
-		}
-	}
-
-
-	@Parameters({"platformName", "platformVersion", "browserName", "browserVersion", "screenResolution", "location", "deviceName", "persona"})
 	@BeforeClass(alwaysRun = true)
 	public void baseBeforeClass(String platformName ,String platformVersion, String browserName, String browserVersion,
 								String screenResolution,  String location, String deviceName, String persona) throws MalformedURLException {
@@ -244,20 +199,25 @@ public class Web {
 		String uniqueKey = threadid.toString() + " " + deviceName;
 		long before = System.currentTimeMillis();
 		if(Utils.USE_GRID.equals("1")){
-            driver = Utils.getRemoteWebDriver(uniqueKey, platformName, platformVersion, browserName, browserVersion, screenResolution, deviceName, persona, "");
+ //           driver = Utils.getRemoteWebDriver(uniqueKey, platformName, platformVersion, browserName, browserVersion, screenResolution, deviceName, persona, "");
             String testName = Thread.currentThread().getStackTrace()[1].getMethodName();
             String dutId = "THREAD ID - " + threadid + " " + platformName + " " + platformVersion + " " + testName;
             // For Perfecto ONLY reportiumClient = Utils.createReportiumClient(dutId, driver);
         } else {
-		    driver = Utils.getLocalWebDriver();
+		//    driver = Utils.getLocalWebDriver();
 		    browserName = "Local Chrome";
 		    browserVersion = "Local Version";
 		    //driver.setLogLevel(Level.ALL);
         }
 
 		eyes = Utils.getEyes(uniqueKey);
-		BatchInfo batchInfo = new BatchInfo("Library Tests - Demo");
+
+		BatchInfo batchInfo = new BatchInfo(BATCH_NAME);
+		if(BATCH_ID!=null) batchInfo.setId(BATCH_ID);
 		eyes.setBatch(batchInfo);
+
+		//Allows for filtering dashboard view
+		eyes.addProperty("SANDBOX", "YES");
 
 		System.out.println("START THREAD ID - " + Thread.currentThread().getId() + " " + browserName + " " + browserVersion);
 		System.out.println("baseBeforeClass took " + (System.currentTimeMillis() - before) + "ms");
@@ -266,19 +226,20 @@ public class Web {
 	@AfterClass(alwaysRun = true)
 	public void baseAfterClass() {
 
-		Logs logs = driver.manage().logs();
-		LogEntries logEntries = logs.get(LogType.DRIVER);
+		//Logs logs = driver.manage().logs();
+		//LogEntries logEntries = logs.get(LogType.DRIVER);
 
-		for (LogEntry logEntry : logEntries) {
-			System.out.println(logEntry.getMessage());
-		}
+		//for (LogEntry logEntry : logEntries) {
+		//	System.out.println(logEntry.getMessage());
+		//}
+
 		if (driver != null) {
 			long before = System.currentTimeMillis();
 			eyes.abortIfNotClosed();
-			driver.close();
 			driver.quit();
 			System.out.println("Driver quit took " + (System.currentTimeMillis() - before) + "ms");
 		}
+
 
 	}
 }
