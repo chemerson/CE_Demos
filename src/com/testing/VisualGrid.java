@@ -38,9 +38,9 @@ public class VisualGrid {
 	private Eyes eyes = new Eyes(VisualGrid);
 
 	private static final String SOURCE_FILE_ROOT_PATH = "src";
-	private static final String BATCH_NAME = "Marriott Demo 1";
+	private static final String BATCH_NAME = "SmileDirect 1 VG";
 	private static final String BATCH_ID = null;  //optional or null, keep all tests in the same batch
-	private static final String APP_NAME = "Marriott";
+	private static final String APP_NAME = "SmileDirect VG";
 
 
 	@Parameters({"platformName", "platformVersion", "browserName", "browserVersion", "screenResolution", "location", "deviceName", "persona"})
@@ -48,10 +48,10 @@ public class VisualGrid {
 	public void CheckURLs_1(String platformName ,String platformVersion, String browserName, String browserVersion,
 							String screenResolution,  String location, String deviceName, String persona) {
 		Integer i=0;
-		String testName = "Marriott Web";
+		String testName = "SmileDirect VG";
 		long before;
 
-		eyes.setMatchLevel(MatchLevel.EXACT);
+		eyes.setMatchLevel(MatchLevel.STRICT);
 		renderConfig.setTestName(testName);
 
 		//driver = Utils.getLocalWebDriver();
@@ -59,7 +59,7 @@ public class VisualGrid {
 
 		String[] arr = new String[0];
 		try {
-			Scanner sc = new Scanner(new File("resources/urls.csv"));
+			Scanner sc = new Scanner(new File("resources/sdurls.csv"));
 			List<String> lines = new ArrayList<String>();
 			while (sc.hasNextLine()) {
 				lines.add(sc.nextLine());
@@ -70,13 +70,13 @@ public class VisualGrid {
 			e.printStackTrace();
 		}
 
-		for(i=1;i<3;i++){ //arr.length;i++){
+		for(i=1;i<arr.length;i++){
 			before = System.currentTimeMillis();
 			System.out.println("Checking URL " + i + ": " + arr[i]);
 			try {
 				driver.get(arr[i]);
 				Utils.scrollPage(driver);
-				eyes.check(arr[1], Target.window());
+				eyes.check(arr[i], Target.window());
 			} catch (Exception e) {
 				System.out.println("FAILED URL " + i + " in " + (System.currentTimeMillis() - before) + "ms");
 				//e.printStackTrace();

@@ -46,7 +46,7 @@ public class Marriott {
 
 	private static final String SOURCE_FILE_ROOT_PATH = "src";
 	private static final String BATCH_NAME = "Marriott Demo 1";
-	private static final String BATCH_ID = "Marriott1";  //optional or null, keep all tests in the same batch
+	private static final String BATCH_ID = null;  //optional or null, keep all tests in the same batch
 	private static final String APP_NAME = "Marriott";
 
 
@@ -56,7 +56,7 @@ public class Marriott {
 		String testName = "Marriott Web";
 		long before;
 
-		eyes.setMatchLevel(MatchLevel.EXACT);
+		eyes.setMatchLevel(MatchLevel.LAYOUT);
 		eyes.setStitchMode(StitchMode.CSS);
 		eyes.setForceFullPageScreenshot(true);
 		eyes.setSendDom(true);
@@ -79,13 +79,13 @@ public class Marriott {
 			e.printStackTrace();
 		}
 
-		for(i=1;i<arr.length;i++){
+		for(i=1;i<66;i++){   //arr.length
 			before = System.currentTimeMillis();
 			System.out.println("Checking URL " + i + ": " + arr[i]);
 			try {
 				driver.get(arr[i]);
 				Utils.scrollPage(driver);
-				eyes.check(arr[1], Target.window());
+				eyes.check(arr[i], Target.window());
 			} catch (Exception e) {
 				System.out.println("FAILED URL " + i + " in " + (System.currentTimeMillis() - before) + "ms");
 				e.printStackTrace();
@@ -98,6 +98,7 @@ public class Marriott {
 				eyes.open(driver, APP_NAME, testName);
 			}
 		}
+		eyes.close();
 	}
 
 

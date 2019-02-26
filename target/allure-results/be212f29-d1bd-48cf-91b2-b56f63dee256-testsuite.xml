@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1550378140415" stop="1550378141103" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>DemoTestSuite : Chrome 70 1280[persona=, platformVersion=10, browserVersion=70.0.3538.110, browserName=chrome, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</name>
+    <title>DemoTestSuite : Chrome 70 1280[persona=, platformVersion=10, browserVersion=70.0.3538.110, browserName=chrome, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</title>
+    <test-cases>
+        <test-case start="1550378140415" stop="1550378141102" status="broken">
+            <name>DemoTestSuite : Chrome 70 1280[persona=, platformVersion=10, browserVersion=70.0.3538.110, browserName=chrome, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</name>
+            <title>DemoTestSuite : Chrome 70 1280[persona=, platformVersion=10, browserVersion=70.0.3538.110, browserName=chrome, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</title>
+            <failure>
+                <message>Test suite was interrupted, some test cases may be lost</message>
+            </failure>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

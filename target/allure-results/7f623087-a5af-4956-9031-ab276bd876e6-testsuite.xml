@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1550492696175" stop="1550492716869" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>DemoTestSuite : Chrome 70 1280[persona=, platformVersion=10, browserVersion=70.0.3538.110, browserName=chrome, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</name>
+    <title>DemoTestSuite : Chrome 70 1280[persona=, platformVersion=10, browserVersion=70.0.3538.110, browserName=chrome, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</title>
+    <test-cases>
+        <test-case start="1550492696357" stop="1550492696359" status="pending">
+            <name>WebDemo</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="11011@Christophers-Applitools-MacBook-Pro.local.TestNG(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1550492697754" stop="1550492716641" status="passed">
+            <name>CheckURLs_1[Windows,10,chrome,70.0.3538.110,1280x1024,US East,,]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="11011@Christophers-Applitools-MacBook-Pro.local.TestNG(17)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

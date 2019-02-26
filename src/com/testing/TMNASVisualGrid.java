@@ -1,0 +1,145 @@
+package com.testing;
+
+import com.applitools.eyes.BatchInfo;
+import com.applitools.eyes.MatchLevel;
+import com.applitools.eyes.rendering.Eyes;
+import com.applitools.eyes.rendering.Target;
+import com.applitools.eyes.visualGridClient.model.RenderingConfiguration;
+import com.applitools.eyes.visualGridClient.model.TestResultSummary;
+import com.applitools.eyes.visualGridClient.services.VisualGridManager;
+import com.testing.pages.home;
+import com.testing.utils.Utils;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.net.MalformedURLException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
+
+
+public class TMNASVisualGrid {
+
+
+	protected RemoteWebDriver driver;
+	protected home objHome;
+
+	protected Target target;
+
+	private VisualGridManager VisualGrid = new VisualGridManager(10);
+	private RenderingConfiguration renderConfig = new RenderingConfiguration();
+	private Eyes eyes = new Eyes(VisualGrid);
+
+	private static final String SOURCE_FILE_ROOT_PATH = "src";
+	private static final String BATCH_NAME = "TMNAS 1 VG EXACT";
+	private static final String BATCH_ID = null;  //optional or null, keep all tests in the same batch
+	private static final String APP_NAME = "TMNAS VG";
+
+
+	@Test(priority = 1, alwaysRun = true, enabled = true)
+	public void CheckURLs_1() {
+		Integer i=0;
+		String testName = "TMNAS VG";
+		long before;
+
+		eyes.setMatchLevel(MatchLevel.EXACT);
+		renderConfig.setTestName(testName);
+
+		//driver = Utils.getLocalWebDriver();
+		eyes.open(driver, renderConfig);
+
+		String[] arr = new String[0];
+		try {
+			Scanner sc = new Scanner(new File("resources/TMNASurls.csv"));
+			List<String> lines = new ArrayList<String>();
+			while (sc.hasNextLine()) {
+				lines.add(sc.nextLine());
+			}
+			arr = lines.toArray(new String[0]);
+			System.out.println("URL's to check: " + arr.length);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+
+		for(i=1;i<arr.length;i++){
+			before = System.currentTimeMillis();
+			System.out.println("Checking URL " + i + ": " + arr[i]);
+			try {
+				driver.get(arr[i]);
+				Utils.scrollPage(driver);
+				eyes.check(arr[i], Target.window());
+			} catch (Exception e) {
+				System.out.println("FAILED URL " + i + " in " + (System.currentTimeMillis() - before) + "ms");
+				//e.printStackTrace();
+				eyes.abortIfNotClosed();
+				if (driver != null) {
+					driver.quit();
+				}
+				driver = Utils.getLocalWebDriver();
+				driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
+				eyes.open(driver, renderConfig);
+			}
+		}
+		eyes.close();
+		TestResultSummary allTestResults = VisualGrid.getAllTestResults();
+		System.out.println("Results: " + allTestResults);
+	}
+
+
+
+
+	@Parameters({"platformName", "platformVersion", "browserName", "browserVersion", "screenResolution", "location", "deviceName", "persona"})
+	@BeforeClass(alwaysRun = true)
+	public void baseBeforeClass(String platformName ,String platformVersion, String browserName, String browserVersion,
+								String screenResolution,  String location, String deviceName, String persona) throws MalformedURLException {
+
+		Long threadid = Thread.currentThread().getId();
+		String uniqueKey = threadid.toString() + " " + deviceName;
+		long before = System.currentTimeMillis();
+		driver = Utils.getLocalWebDriver();
+		browserName = "Local Chrome";
+		browserVersion = "Local Version";
+
+		renderConfig.setAppName("APP_NAME");
+		renderConfig.addBrowser(800,  600, RenderingConfiguration.BrowserType.CHROME);
+		renderConfig.addBrowser(1200, 800, RenderingConfiguration.BrowserType.CHROME);
+		renderConfig.addBrowser(1600, 800, RenderingConfiguration.BrowserType.CHROME);
+		renderConfig.addBrowser(700,  500, RenderingConfiguration.BrowserType.FIREFOX);
+		renderConfig.addBrowser(1200,  800, RenderingConfiguration.BrowserType.FIREFOX);
+		renderConfig.addBrowser(1600,  800, RenderingConfiguration.BrowserType.FIREFOX);
+
+
+
+		// Using Visual Grid Implementation eyes = Utils.getEyes(uniqueKey);
+		eyes.setApiKey(Utils.EYES_KEY);
+
+		BatchInfo batchInfo = new BatchInfo(BATCH_NAME);
+		if(BATCH_ID!=null) batchInfo.setId(BATCH_ID);
+		eyes.setBatch(batchInfo);
+
+		//Allows for filtering dashboard view
+		//not yet implemented in VG SDK eyes.addProperty("SANDBOX", "YES");
+
+		System.out.println("START THREAD ID - " + Thread.currentThread().getId() + " " + browserName + " " + browserVersion);
+		System.out.println("baseBeforeClass took " + (System.currentTimeMillis() - before) + "ms");
+	}
+
+	@AfterClass(alwaysRun = true)
+	public void baseAfterClass() {
+
+		if (driver != null) {
+			long before = System.currentTimeMillis();
+			eyes.abortIfNotClosed();
+			driver.quit();
+			System.out.println("Driver quit took " + (System.currentTimeMillis() - before) + "ms");
+		}
+
+
+	}
+}

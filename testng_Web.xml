@@ -14,7 +14,7 @@
         <parameter name="persona" value="" />
 
         <classes>
-            <class name="com.testing.Marriott" />
+            <class name="com.testing.TMNASVisualGrid" />
         </classes>
     </test>
 

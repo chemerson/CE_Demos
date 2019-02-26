@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1543937730170" stop="1543937812257" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>DemoTestSuite : Chrome 70 1280[persona=, platformVersion=10, browserVersion=70.0.3538.110, browserName=chrome, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</name>
+    <title>DemoTestSuite : Chrome 70 1280[persona=, platformVersion=10, browserVersion=70.0.3538.110, browserName=chrome, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</title>
+    <test-cases>
+        <test-case start="1543937730325" stop="1543937730327" status="pending">
+            <name>LocalWebDemo_3</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="249@Christophers-Applitools-MacBook-Pro.local.TestNG(12)"/>
+            </labels>
+        </test-case>
+        <test-case start="1543937730327" stop="1543937730327" status="pending">
+            <name>LocalWebDemo_1</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="249@Christophers-Applitools-MacBook-Pro.local.TestNG(12)"/>
+            </labels>
+        </test-case>
+        <test-case start="1543937730328" stop="1543937730328" status="pending">
+            <name>SinglePageDemo</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="249@Christophers-Applitools-MacBook-Pro.local.TestNG(12)"/>
+            </labels>
+        </test-case>
+        <test-case start="1543937730328" stop="1543937730328" status="pending">
+            <name>LocalWebDemo_2</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="249@Christophers-Applitools-MacBook-Pro.local.TestNG(12)"/>
+            </labels>
+        </test-case>
+        <test-case start="1543937730328" stop="1543937730328" status="pending">
+            <name>WikipediaDemo</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="249@Christophers-Applitools-MacBook-Pro.local.TestNG(12)"/>
+            </labels>
+        </test-case>
+        <test-case start="1543937732643" stop="1543937812256" status="broken">
+            <name>NYT[Windows,10,chrome,70.0.3538.110,1280x1024,US East,,]</name>
+            <failure>
+                <message>Test was interrupted</message>
+            </failure>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="249@Christophers-Applitools-MacBook-Pro.local.TestNG(12)"/>
+            </labels>
+        </test-case>
+        <test-case start="1543937730170" stop="1543937812256" status="broken">
+            <name>DemoTestSuite : Chrome 70 1280[persona=, platformVersion=10, browserVersion=70.0.3538.110, browserName=chrome, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</name>
+            <title>DemoTestSuite : Chrome 70 1280[persona=, platformVersion=10, browserVersion=70.0.3538.110, browserName=chrome, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</title>
+            <failure>
+                <message>Test suite was interrupted, some test cases may be lost</message>
+            </failure>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

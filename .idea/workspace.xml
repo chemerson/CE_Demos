@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="914b7f99-004a-42bb-88ff-1885db3cde1b" name="Default" comment="TEST">
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/TMNASurls.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sdurls.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testing/SmileDirect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testing/TMNASVisualGrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/urls.csv" beforeDir="false" afterPath="$PROJECT_DIR$/resources/urls.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/testing/Marriott.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/Marriott.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/testing/VisualGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/VisualGrid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/testing/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testing/utils/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/testing/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testing/utils/Utils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng_Web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_Web.xml" afterDir="false" />
     </list>
     <ignored path="Perfecto.iws" />
@@ -30,30 +31,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/testing/Marriott.java">
+        <entry file="file://$PROJECT_DIR$/src/com/testing/TMNASVisualGrid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="87" column="35" selection-start-line="87" selection-start-column="35" selection-end-line="87" selection-end-column="35" />
+            <state relative-caret-position="1177">
+              <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2586#2594#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testing/utils/Utils.java">
+        <entry file="file://$PROJECT_DIR$/resources/urls.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="951">
-              <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+            <state relative-caret-position="903">
+              <caret line="90" column="100" selection-end-line="90" selection-end-column="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/testing/Marriott.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="66" column="46" selection-start-line="66" selection-start-column="46" selection-end-line="66" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2809#3380#1" />
-                <element signature="e#4918#8518#0" />
-                <element signature="e#9249#12193#0" />
-                <element signature="e#12105#12106#0" expanded="true" />
-                <element signature="e#12136#12137#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,17 +66,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testng_Web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+            <state relative-caret-position="240">
+              <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/urls.csv">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="88" column="48" selection-start-line="88" selection-start-column="48" selection-end-line="88" selection-end-column="48" />
+            <state relative-caret-position="629">
+              <caret line="99" column="41" selection-start-line="99" selection-start-column="41" selection-end-line="99" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -88,7 +92,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>timeout</find>
       <find>home</find>
       <find>threshol</find>
       <find>console</find>
@@ -117,6 +120,7 @@
       <find>SECURITY_TOKEN</find>
       <find>screenResolution</find>
       <find>eyes.open</find>
+      <find>token</find>
       <find>automati</find>
     </findStrings>
     <replaceStrings>
@@ -169,17 +173,22 @@
         <option value="$PROJECT_DIR$/src/com/testing/pages/home.java" />
         <option value="$PROJECT_DIR$/src/com/testing/visualGrid.java" />
         <option value="$PROJECT_DIR$/src/com/testing/Crawl.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/com/testing/Crawler.java" />
         <option value="$PROJECT_DIR$/src/cloudgrids/perfecto.java" />
         <option value="$PROJECT_DIR$/src/com/testing/StaticURL.java" />
         <option value="$PROJECT_DIR$/src/com/testing/DemoPlugin.java" />
         <option value="$PROJECT_DIR$/src/com/testing/Web.java" />
-        <option value="$PROJECT_DIR$/src/com/testing/Marriott.java" />
         <option value="$PROJECT_DIR$/resources/urls.csv" />
         <option value="$PROJECT_DIR$/src/com/testing/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/com/testing/SmileDIrect.java" />
+        <option value="$PROJECT_DIR$/resources/sdurls.csv" />
+        <option value="$PROJECT_DIR$/src/com/testing/SmileDirect.java" />
         <option value="$PROJECT_DIR$/src/com/testing/VisualGrid.java" />
+        <option value="$PROJECT_DIR$/resources/TMNASurls.csv" />
         <option value="$PROJECT_DIR$/testng_Web.xml" />
+        <option value="$PROJECT_DIR$/src/com/testing/Marriott.java" />
+        <option value="$PROJECT_DIR$/src/com/testing/TMNASVisualGrid.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -211,10 +220,10 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="805" />
-    <option name="y" value="-1417" />
-    <option name="width" value="1330" />
-    <option name="height" value="1362" />
+    <option name="x" value="719" />
+    <option name="y" value="-1255" />
+    <option name="width" value="1394" />
+    <option name="height" value="1114" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -224,7 +233,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,11 +262,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="testing" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CE_Demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="CE_Demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.applitools:eyes-images-java3:3.143.1" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CE_Demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.applitools:eyes-sdk-core-java3:3.143.1" type="70bed36:NamedLibraryElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,13 +290,13 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550496939994" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550711321683" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3402299" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.testRunning" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -508,7 +531,7 @@
       <option name="METHOD_NAME" value="" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea -DuseSeleniumGrid=0 -DtestEyes=1 -DeyesAPIKey=8pVdTA8n6joSM18VHrggfo9OHmhaFjepyAbkdrZ1NcU110 -DtestHost=localhost:4444 -DtestToken=eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJLc1BUWU1zZHBSZ21LXzk4OGZwaUx6cWsxdWpZMnduZG5SQU50ejgyVHBNIn0.eyJqdGkiOiJiNmZlM2JkMy03NmI3LTQwOTEtOWRhZi05NTFkMTNjOTQzNmMiLCJleHAiOjAsIm5iZiI6MCwiaWF0IjoxNTQyMTA3NjQzLCJpc3MiOiJodHRwczovL2F1dGgucGVyZmVjdG9tb2JpbGUuY29tL2F1dGgvcmVhbG1zL3BhcnRuZXJzLXBlcmZlY3RvbW9iaWxlLWNvbSIsImF1ZCI6Im9mZmxpbmUtdG9rZW4tZ2VuZXJhdG9yIiwic3ViIjoiNjczOTkwMzYtZjA3ZC00OTZhLWI3NmItZDg1ODBhY2YzMGY3IiwidHlwIjoiT2ZmbGluZSIsImF6cCI6Im9mZmxpbmUtdG9rZW4tZ2VuZXJhdG9yIiwiYXV0aF90aW1lIjowLCJzZXNzaW9uX3N0YXRlIjoiMGRmNDVkMDUtZTZmYi00ZjMyLWI0YjItM2YyNjA4ZWNhNGY4IiwicmVhbG1fYWNjZXNzIjp7InJvbGVzIjpbIm9mZmxpbmVfYWNjZXNzIl19LCJyZXNvdXJjZV9hY2Nlc3MiOnsiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwidmlldy1wcm9maWxlIl19fX0.D3jaWe5hdvPam55_1kGxnkfVxMGxkX9xOvQGVeBz__mQkjQYmWdgAtEOQZ0Vkuia_6BZr_n3R-Wb8CSefKRIIUIvbQ_3rhnA4YbiC1tjo6lXhEogg7Wuh_H2WCxsJUJMwOzqz6XB75FLVOwXry-TRCd2fMFFEfM1pm8imJcQ4MUPwlkJ6aZizwftmmfm4F2iWU0nCF3ynu7i7QaUE2mq0lZszPiLhlpT899MbHvst7q3hQbU2vI7GIzK_N4ThOt_qhMX0AsldhE6Bqt_uVUyfmeRogXTg7Tx4LfWHe05McAXkdmM7VsgzhlVUt5fJJZP1TMYAccS3ht_9GfgHDogRg" />
+      <option name="VM_PARAMETERS" value="-ea -DuseSeleniumGrid=0 -DtestEyes=1 -DeyesAPIKey=8pVdTA8n6joSM18VHrggfo9OHmhaFjepyAbkdrZ1NcU110 -DtestHost=localhost:4444" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" value="" />
@@ -563,6 +586,7 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -767,34 +791,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Web - 2019.02.18 at 02h 16m 01s.xml">
+    <history-entry file="Web - 2019.02.19 at 09h 22m 47s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2019.02.18 at 07h 16m 33s.xml">
+    <history-entry file="Web - 2019.02.19 at 09h 38m 03s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2019.02.18 at 07h 23m 04s.xml">
+    <history-entry file="Web - 2019.02.19 at 10h 47m 27s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2019.02.18 at 07h 25m 17s.xml">
+    <history-entry file="Web - 2019.02.19 at 11h 15m 13s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2019.02.18 at 07h 33m 54s.xml">
+    <history-entry file="Web - 2019.02.19 at 11h 23m 01s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2019.02.18 at 07h 34m 52s.xml">
+    <history-entry file="Web - 2019.02.19 at 11h 37m 04s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2019.02.18 at 07h 46m 24s.xml">
+    <history-entry file="Web - 2019.02.19 at 11h 44m 20s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2019.02.18 at 08h 28m 16s.xml">
+    <history-entry file="Web - 2019.02.19 at 11h 47m 26s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2019.02.18 at 08h 35m 26s.xml">
+    <history-entry file="Web - 2019.02.19 at 11h 49m 51s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Web - 2019.02.18 at 08h 41m 56s.xml">
+    <history-entry file="Web - 2019.02.19 at 11h 52m 17s.xml">
       <configuration name="Web" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -811,10 +835,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="805" y="-1417" width="1330" height="1362" extended-state="0" />
+    <frame x="719" y="-1255" width="1394" height="1114" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20574534" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4178994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.14295977" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -825,7 +849,7 @@
       <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.12830794" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7405372" visible="true" weight="0.4426624" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7405372" weight="0.2793354" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34322375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -918,6 +942,18 @@
     <MESSAGE value="Remove bad dependencies" />
     <option name="LAST_COMMIT_MESSAGE" value="Remove bad dependencies" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testing/VisualGrid.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
@@ -947,28 +983,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testng_WebMobile.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng_Native.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng_NativeiOS.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/ITestResult.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/com/perfecto/reporting-sdk/reportium-java/1.0.280/reportium-java-1.0.280.jar!/com/perfecto/reportium/test/TestContext.class" />
     <entry file="file://$PROJECT_DIR$/src/com/testing/utils/VcsUtils.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -991,13 +1005,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng_demoplugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="47" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_demoplugin.xml" />
     <entry file="file://$USER_HOME$/Library/Caches/IdeaIC2018.2/temp-testng-customsuite.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1206,13 +1214,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testing/DemoPlugin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1424">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/DemoPlugin.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/internal/Invoker.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -1220,26 +1222,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testing/StaticURL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2414#2422#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/DigitalWebScenarioParallel/src/test/java/com/perfecto/testing/WebScenarioParallel.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#7647#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/StaticURL.java" />
+    <entry file="file://$PROJECT_DIR$/bin/DigitalWebScenarioParallel/src/test/java/com/perfecto/testing/WebScenarioParallel.class" />
     <entry file="file://$PROJECT_DIR$/src/com/testing/Web.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-117">
@@ -1248,24 +1232,6 @@
             <element signature="method#LocalWebDemo_1#0;class#Web#0" />
             <element signature="method#LocalWebDemo_2#0;class#Web#0" />
             <element signature="e#8526#9510#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1484">
-          <caret line="107" column="25" selection-start-line="107" selection-start-column="25" selection-end-line="107" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testing/VisualGrid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="157" column="8" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#WebDemo#0;class#VisualGrid#0" />
           </folding>
         </state>
       </provider>
@@ -1284,24 +1250,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/urls.csv">
+    <entry file="file://$PROJECT_DIR$/resources/sdurls.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="88" column="48" selection-start-line="88" selection-start-column="48" selection-end-line="88" selection-end-column="48" />
+        <state relative-caret-position="375">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng_Web.xml">
+    <entry file="file://$PROJECT_DIR$/resources/TMNASurls.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+        <state relative-caret-position="120">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/SmileDirect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/testing/utils/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="951">
-          <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+        <state relative-caret-position="202">
+          <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2809#3380#1" />
@@ -1313,13 +1286,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testing/Marriott.java">
+    <entry file="file://$PROJECT_DIR$/src/com/testing/VisualGrid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="87" column="35" selection-start-line="87" selection-start-column="35" selection-end-line="87" selection-end-column="35" />
+        <state relative-caret-position="267">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2586#2594#0" expanded="true" />
+            <element signature="method#WebDemo#0;class#VisualGrid#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/urls.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="90" column="100" selection-end-line="90" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="99" column="41" selection-start-line="99" selection-start-column="41" selection-end-line="99" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/Marriott.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="66" column="46" selection-start-line="66" selection-start-column="46" selection-end-line="66" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_Web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testing/TMNASVisualGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1177">
+          <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1400,7 +1414,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.google.code.gson:gson:2.8.2</last-edited>
+          <last-edited>Maven: com.applitools:eyes-common-java3:3.143.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

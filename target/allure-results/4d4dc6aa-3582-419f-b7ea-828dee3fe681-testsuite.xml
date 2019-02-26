@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1543963397061" stop="1543963411402" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>DemoTestSuite : Firefox 63 1280[persona=, platformVersion=10, browserVersion=63.0.3, browserName=firefox, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</name>
+    <title>DemoTestSuite : Firefox 63 1280[persona=, platformVersion=10, browserVersion=63.0.3, browserName=firefox, location=US East, platformName=Windows, screenResolution=1280x1024, deviceName=]</title>
+    <test-cases>
+        <test-case start="1543963397083" stop="1543963397085" status="pending">
+            <name>LocalWebDemo_3</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="25165@Christophers-Applitools-MacBook-Pro.local.TestNG(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1543963397085" stop="1543963397085" status="pending">
+            <name>LocalWebDemo_1</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="25165@Christophers-Applitools-MacBook-Pro.local.TestNG(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1543963397085" stop="1543963397085" status="pending">
+            <name>LocalWebDemo_2</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="25165@Christophers-Applitools-MacBook-Pro.local.TestNG(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1543963404162" stop="1543963410870" status="passed">
+            <name>TEMPDEMO[Windows,10,firefox,63.0.3,1280x1024,US East,,]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Christophers-Applitools-MacBook-Pro.local"/>
+                <label name="thread" value="25165@Christophers-Applitools-MacBook-Pro.local.TestNG(13)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
