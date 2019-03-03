@@ -1,1 +1,1 @@
-Basic demo of Appium with Perfecto
+OLD Demo project
